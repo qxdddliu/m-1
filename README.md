@@ -18,33 +18,26 @@
 
 ## Why and Goals
 
-We believe that intelligent machines will be able to solve many of our
-hardest problems and will cause many new hard problems. Our hardest problems
-like scarcity of water, food, shelter, resources, understanding, affection and
-mysteries like cancer, mortality, and secretes of the universe involve
-understanding a lot of data and as humans we are limited by the processing
-power and size of our brains. But if we figure out the computational principles
-that make you and us intelligent, simulate them on a computer, scale it up to
-surpass the collective intelligence of the 7+ billion people on Earth we will
-have created intelligent machines that do not need to eat, sleep, or reproduce
-that can work on our hardest problems much more efficiently than humans.
+Based on Moore's Law in about 15 years the fastest computer will do more
+operations per second than all the neurons in all the brains of all the people
+who are alive. Because of this we are building a neural lace to prevent
+humans from becoming irrelavent in the future to strong AI.
 
-Technology has always been used to do great good and great evil and even if we
-have the best intentions to do good, intelligent machines will cause many new
-problems. For example, there will be massive job loss since most jobs
-can be replaced by intelligent machines. A possible solution to this hard
-problem will be to augment our brains and become super intelligent as a species.
+Our current hypothesis is the fastest way to build a safe neural lace is to
+build a strong AI first that knows how to figure out what is true and false
+using [Hunter's Law](https://youtu.be/152Fe1Z1vbs). Then we would ask the
+strong AI to build a neural lace for humans that want to have one.
 
-The current short term goal is to experiment with a simplified visual pathway
+Since the first step is to build a strong AI in the next 15 to 40 years the
+current short term goal is to experiment with a simplified visual pathway
 from an eye that sees binary bitmap training videos to experimental general
-learning algorithms to understand the key principles of intelligence and discover
-new principles of intelligence that evolution missed. This repo is currently
-an object oriented Python implementation of the computational framework
-outlined in Dileep George's PhD thesis [*How the Brain Might Work: A Hierarchical and Temporal Model for Learning and Recognition*](https://github.com/WalnutiQ/papers/blob/master/HowTheBrainMightWork.pdf)
+learning algorithms to understand the key principles of intelligence and
+discover new principles of intelligence that evolution missed. This repo is
+currently an object oriented Python implementation of the computational
+framework outlined in Dileep George's PhD thesis [*How the Brain Might Work: A Hierarchical and Temporal Model for Learning and Recognition*](https://github.com/WalnutiQ/papers/blob/master/HowTheBrainMightWork.pdf)
 
-The long term goal of this project is to build a machine that exceeds human
-intelligence to solve our hardest problems. If you are interested in investing
-in this project please e-mail quinnliu@vt.edu or mrmohitrathoremr@gmail.com
+If you are interested in investing in this project please e-mail
+quinnliu@vt.edu
 
 ## How
 
