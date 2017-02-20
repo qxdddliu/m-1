@@ -1,3 +1,9 @@
+#installation generated files
+.eggs/
+build/
+dist/
+wAlnut.egg-info/
+
 # virtualenv
 wAlnut_environment
 
@@ -13,7 +19,8 @@ __pycache__/
 .idea/
 
 # Files generated in experiments
-*.json
+walnut/tests/**/*.zip
+*.bmp
 
 # Continuous integration
 .coverage

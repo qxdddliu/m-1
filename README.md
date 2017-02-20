@@ -1,14 +1,16 @@
 # wAlnut
 
-*Think 1st principles*
+*Think 1st principles*  
 [![Build Status](https://travis-ci.org/WalnutiQ/wAlnut.svg?branch=develop)](https://travis-ci.org/WalnutiQ/wAlnut)
+[![Coverage Status](https://coveralls.io/repos/github/WalnutiQ/wAlnut/badge.svg?branch=develop)](https://coveralls.io/github/WalnutiQ/wAlnut?branch=develop)
+
 
 #### Table of Contents
 - **[Why and Goals](#why-and-goals)**
 - **[How](#how)**
     + **[How to Develop the Confidence to Work on this Project](#how-to-develop-the-confidence-to-work-on-this-project])**
     + **[How to Contribute](#how-to-contribute)**
-    + **[Setup Development Environment for Mac](#setup-development-environment-for-mac)**
+    + **[Setup development environment for Mac and Linux](#setup-development-environment-for-mac-and-linux)**
 - **[What](#what)**
     + **[Introduction](#introduction)**
     + **[Key Theories](#key-theories)**
@@ -16,33 +18,26 @@
 
 ## Why and Goals
 
-We believe that intelligent machines will be able to solve many of our
-hardest problems and will cause many new hard problems. Our hardest problems
-like scarcity of water, food, shelter, resources, understanding, affection and
-mysteries like cancer, mortality, and secretes of the universe involve
-understanding a lot of data and as humans we are limited by the processing
-power and size of our brains. But if we figure out the computational principles
-that make you and us intelligent, simulate them on a computer, scale it up to
-surpass the collective intelligence of the 7+ billion people on Earth we will
-have created intelligent machines that do not need to eat, sleep, or reproduce
-that can work on our hardest problems much more efficiently than humans.
+Based on Moore's Law in about 15 years the fastest computer will do more
+operations per second than all the neurons in all the brains of all the people
+who are alive. Because of this we are building a neural lace to prevent
+humans from becoming irrelavent in the future to strong AI.
 
-Technology has always been used to do great good and great evil and even if we
-have the best intentions to do good, intelligent machines will cause many new
-problems. For example, there will be massive job loss since most jobs
-can be replaced by intelligent machines. A possible solution to this hard
-problem will be to augment our brains and become super intelligent as a species.
+Our current hypothesis is the fastest way to build a safe neural lace is to
+build a strong AI first that knows how to figure out what is true and false
+using [Hunter's Law](https://youtu.be/152Fe1Z1vbs). Then we would ask the
+strong AI to build a neural lace for humans that want to have one.
 
-The current short term goal is to experiment with a simplified visual pathway
+Since the first step is to build a strong AI in the next 15 to 40 years the
+current short term goal is to experiment with a simplified visual pathway
 from an eye that sees binary bitmap training videos to experimental general
-learning algorithms to understand the key principles of intelligence and discover
-new principles of intelligence that evolution missed. This repo is currently
-an object oriented Python implementation of the computational framework
-outlined in Dileep George's PhD thesis [*How the Brain Might Work: A Hierarchical and Temporal Model for Learning and Recognition*](https://github.com/WalnutiQ/papers/blob/master/HowTheBrainMightWork.pdf)
+learning algorithms to understand the key principles of intelligence and
+discover new principles of intelligence that evolution missed. This repo is
+currently an object oriented Python implementation of the computational
+framework outlined in Dileep George's PhD thesis [*How the Brain Might Work: A Hierarchical and Temporal Model for Learning and Recognition*](https://github.com/WalnutiQ/papers/blob/master/HowTheBrainMightWork.pdf)
 
-The long term goal of this project is to build a machine that exceeds human
-intelligence to solve our hardest problems. If you are interested in investing
-in this project please e-mail quinnliu@vt.edu
+If you are interested in investing in this project please e-mail
+quinnliu@vt.edu
 
 ## How
 
@@ -50,8 +45,8 @@ in this project please e-mail quinnliu@vt.edu
 
 Start with the most fundamental truths and reason up from there.
 
-Then watch this video on [developing true confidence by Kong](https://www.youtube.com/watch?v=xSURldy2EJE).
-Then watch this video on [how to live by Steve](https://www.youtube.com/watch?v=UF8uR6Z6KLc).
+Then watch this video on [developing true confidence by Kong](https://www.youtube.com/watch?v=xSURldy2EJE).  
+Then watch this video on [how to live by Steve](https://www.youtube.com/watch?v=UF8uR6Z6KLc).  
 Then watch this video on [how to live by Neil](https://www.youtube.com/watch?v=ikAb-NYkseI).
 
 The best approach we have come across for building an artificial general intelligence
@@ -225,7 +220,7 @@ be a stronger version of yourself and ready to fail even harder again.
 If you are interested in becoming a researcher/developer, I would be grateful
 for your collaboration as I cannot do this alone. To get started read
 **[how to contribute](#how-to-contribute)** and then
-**[setup development environment for Mac](#setup-development-environment-for-mac)**.
+**[setup development environment for Mac and Linux](#setup-development-environment-for-mac-and-linux)**.
 
 ## How to contribute
 1. I am looking for developers to build an open source artificial general
@@ -246,7 +241,7 @@ for your collaboration as I cannot do this alone. To get started read
      days of the week. This is based on the learning principle that if you want to
      get really good at something you have to work on it consecutively everyday.
 
-3. E-mail quinnliu@vt.edu the following:
+3. E-mail quinnliu@vt.edu or mrmohitrathoremr@gmail.com the following:
    - Link to source code of project you enjoyed working on the most preferably in
      Python or Javascript or D3.js. I am really just looking for good object oriented design
      and good documentation.
@@ -259,7 +254,7 @@ for your collaboration as I cannot do this alone. To get started read
    guide [here](https://google.github.io/styleguide/pyguide.html) to contribute to this
    repository effectively.
 
-## Setup development environment for Mac
+## Setup development environment for Mac and Linux
 1. Go to the top right of this page and hit the Fork button. Then clone your forked
    repository locally.
 
@@ -408,7 +403,7 @@ us.
        understands speech.
      + 2008 PhD thesis [here](https://github.com/WalnutiQ/papers/blob/master/HowTheBrainMightWork.pdf)
        by Dileep George from Stanford University
-         - Figure 1: ![alt text](https://raw.githubusercontent.com/WalnutiQ/wAlnut/master/model/images/explanatory/translation_training_creates_scale_invariance.png)
+         - Figure 1: ![alt text](https://raw.githubusercontent.com/WalnutiQ/wAlnut/develop/walnut/images/explanatory/translation_training_creates_scale_invariance.png)
          - Notice how the scaling of "A" in (c) would be the exact same input as (b) if you translate the input
            to the left by 1 pixel.
    - Not supportive:
@@ -482,13 +477,18 @@ us.
 
 If you are confused what a file/folder is for:
 ```
-- model/ = object oriented model implementing the key theories
+- walnut/
   - datasets/ = contains zipped datasets generated by https://github.com/WalnutiQ/time_series_data
-  - images/
-    - explanatory/ = contains explanatory images about how the model looks
-- tests/ = unit tests for code in model folder
+  - images/explanatory/ = contains explanatory images about how the model looks
+  - model/ = object oriented model implementing the key theories
+  - tests/ = unit tests for code in model folder
+    - experiments/ = using the OO model for algorithm experiments
+  - utils/
+- wAlnut_environment/ = folder only on your local repo generated by virtualenv
+                        containing libraries we are using
 - .gitignore = contains names of files/folders not to add to this repository
-  but keep in your local wAlnut folder
+               but keep in your local wAlnut folder
+- .travis.yml = for running this code on Travis's servers to make sure all tests pass
 - LICENSE.txt = GNU General Public License version 3
 - README.md = the file you are reading right now
 - requirements.txt = list of python library versions we are using. These are installed
