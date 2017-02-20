@@ -296,7 +296,9 @@ good thing for the human race. For example, look at how humans treat
 [intelligent pigs](http://modernfarmer.com/2014/03/pigheaded-smart-swine/).
 We are more intelligent emotional machines compared to pigs and the future
 super intelligent emotional machines will be much more intelligent compared to
-us.
+us. However if the emotional intelligent machine understands Hunter's Law
+and uses it to figure out what is true and what is not true then we think it
+would be okay and safe to create a super intelligent emotional machine. 
 
 ## Key Theories
 
