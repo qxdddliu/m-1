@@ -36,8 +36,21 @@ discover new principles of intelligence that evolution missed. This repo is
 currently an object oriented Python implementation of the computational
 framework outlined in Dileep George's PhD thesis [*How the Brain Might Work: A Hierarchical and Temporal Model for Learning and Recognition*](https://github.com/WalnutiQ/papers/blob/master/HowTheBrainMightWork.pdf)
 
-If you are interested in investing in this project please e-mail
-quinnliu@vt.edu
+### Road Map for next 15-40 years
+1. By 8/31/2017 solved reCAPTCHA with video evidence.
+2. Sensori-motor training on wAlnut with saccading retina and arm with motor
+   feedback capable of drawing an idea.
+3. Show wAlnut is able to imagine everyday objects from clouds.
+4. Teach wAlnut English language and simple things about the world up to
+   average 5 year old human.
+5. Teach wAlnut [Hunter's Law](https://youtu.be/152Fe1Z1vbs) so it can
+   figure out what is true and false most efficiently.
+6. Ask wAlnut to build a neural lace for any human who wants one a free one
+   regardless of background from a homeless human to a billionaire human.
+
+This project currently has enough funding to last 22 more months with 3
+humans working for free. If ur interested in investing in this project
+e-mail quinnliu@vt.edu
 
 ## How
 
@@ -57,7 +70,7 @@ The following are the key points:
 
 1. **_When looking at neuroscience for inspiration consider adding something to your computational
    framework if it is present in reality and neurobiology._**
-     - This is because the neurons in your brain are trying to do 3 things:
+     - This is because the neurons in ur brain are trying to do 3 things:
          + 1) stay alive
          + 2) communicate with other parts of the brain limited by the evolved neurobiology
            at the time
@@ -102,13 +115,13 @@ The following are the key points:
        strive to use the best substitutes to model the principles of general flight.
 
 4. **_Do not try to find all principles of general intelligence from neuroscience._**
-     - This is because if you do you are assuming that the human brain has discovered
+     - This is because if ur assuming that the human brain has discovered
        all the principles to general intelligence which is very wrong. Evolution
        accidentally discovered several principles of general intelligence over
        hundreds of thousands of years. There are definitely some principles it
        has yet to discover.
 
-5. **_You can solve one problem independently before solving another problem._**
+5. **_U can solve one problem independently before solving another problem._**
       - **Flying Example:**
         The Wright Brothers solved the problem of flight control with wind warping
         before even starting to solve the problem of efficient enough engine.
@@ -124,10 +137,10 @@ The following are additional strategies being used that are not presented in the
      - 1) Every human is susceptible to believing in wrong ideas this since there is no free will.
      - 2) In my past I have believed in ideas that are false because I have no control over the information
        I am presented. For example I have believed:
-       + Santa is real, if you eat earwax you go deaf, there is a god that looks similar to humans,
-         there is free will, you are born with confidence and can't learn how to be confident, ...
+       + Santa is real, if u eat earwax u go deaf, there is a god that looks similar to humans,
+         there is free will, ur born with confidence and can't learn how to be confident, ...
      - **Example:**
-       Say there is idea A and idea B that contradict each other. And you notice that the number of people that
+       Say there is idea A and idea B that contradict each other. And u notice that the number of people that
        strongly believe idea A after having something happen to them decide to strongly believe in idea B is more than
        the other way around. THEN it is pretty likely idea B is more truthful than idea A. However this does not mean
        idea B is completely true.
@@ -156,7 +169,7 @@ The following are additional strategies being used that are not presented in the
              + One example is to answer questions where the task is to answer which of 2 statements are nonsense.
                + Statement 1) After waiting barefoot in the lake Eric used his shirt to dry his feet.
                + Statement 2) After waiting barefoot in the lake Eric used his glasses to dry his feet.
-               + Clearly statement B does not make sense but if you do not have an accurate model of the world you
+               + Clearly statement B does not make sense but if u do not have an accurate model of the world u
                  will not be able to answer this question correctly. Siri, Google Now, and Watson are successful
                  artificial narrow intelligence but not artificial general intelligence because they do not have
                  accurate models of the world. [Video Source at 24:20](https://www.youtube.com/watch?v=NPtAIVieh4k)
@@ -168,86 +181,82 @@ when John F. Kennedy proposed we go to the moon on September 12, 1962 by the
 end of the decade. To build an AGI that exceeds human intelligence will
 require a few more breakthroughs. Because we cannot predict when these
 breakthroughs will occur the first AGI to exceed human intelligence may happen
-anytime in the next 10 to 50 years.
+anytime in the next 15 to 40 years.
 
 Remember "*what I cannot create I do not understand*" was said by Richard Feynman.
 Then think about what an intelligent machine needs to be able to do from first
 principles.
 
-Experiment with your model on tasks that only intelligent machines seem to be
+Experiment with ur model on tasks that only intelligent machines seem to be
 good at. Be open to ways to change the model. Remember that the
 earth was born about 4.6 billion years ago and that it took evolution about
 4.6 billion - 200,000 years to create the first homo sapiens. This shit takes
-time so if you're frustrated go relax.
+time so if ur frustrated go relax.
 
-And as stupid as it sounds remember that it is the journey you go on that makes
-everything worth it when you look back. If your happiness depends on reaching
-any goal in this project your happiness will only be temporary. You have made
-the false assumption that your default state is not happiness because throughout
-your life others have told you:
+And as stupid as it sounds remember that it is the journey u go on that makes
+everything worth it when u look back. If ur happiness depends on reaching
+any goal in this project ur happiness will only be temporary. U have made
+the false assumption that ur default state is not happiness because throughout
+ur life others have told i:
 
-Others: `You should feel successful only if you are the best`  
+Others: `U should feel successful only if u are the best`  
 But why can't it become `I should follow my curiosity to improve myself a little
 bit everyday`?
 
 The advice communicated by others whether through their actions or words comes
 from a place of insecurity and fear of others while the latter comes from a place
-of curiosity and love of yourself and others.
+of curiosity and love of urself and others.
 
-Here are some other examples of how your past experiences are pushing you
-towards being less like yourself and how you can change it:
+Here are some other examples of how ur past experiences are pushing u
+towards being less like urself and how u can change it:
 
-Others: `You should feel successful if you listen to what I tell you and not question it`  
+Others: `U should feel successful if u listen to what I tell u and not question it`  
 Becomes: `I should be open-minded and think from 1st principles and do what I
 think is right`
 
-Others: `You should feel successful if you do the thing that will make you the most money`  
+Others: `U should feel successful if u do the thing that will make u the most money`  
 Becomes: `When I do not need the money I should do things that make me excited
 and that I want to see exist in reality over doing something just for the money`
 
-Others: `You should feel successful only if you are approved wildly`  
-Becomes: `I should help others improve themselves a little bit everyday`
+Others: `U should feel successful only if u are approved wildly`  
+Becomes: `I should feel luckily if I am accepted by few deeply and I should
+help others improve themselves a little bit everyday`
 
 In each of these examples we removed happiness being dependent on some kind of success.
-<b>You deserve to be happy by default</b> and should reach for your goals from
-a place of curiosity and love of yourself and others instead of insecurity and fear of
+<b>U deserve to be happy by default</b> and should reach for ur goals from
+a place of curiosity and love of urself and others instead of insecurity and fear of
 others.
 
-Sometimes life will hit you with a hammer. When it does take time to regain your hope in humanity in any way you
-feel is right and take as much time as you need. When you get back up you will
-be a stronger version of yourself and ready to fail even harder again.
+Sometimes life will hit u with a hammer. When it does take time to regain ur
+hope in humanity in any way u
+feel is right and take as much time as u need. When u get back up u will
+be a stronger version of urself and ready to fail even harder again.
 
-If you are interested in becoming a researcher/developer, I would be grateful
-for your collaboration as I cannot do this alone. To get started read
+If ur interested in becoming a researcher/developer, I would be grateful
+for ur collaboration as I cannot do this alone. To get started read
 **[how to contribute](#how-to-contribute)** and then
 **[setup development environment for Mac and Linux](#setup-development-environment-for-mac-and-linux)**.
 
 ## How to contribute
-1. I am looking for developers to build an open source artificial general
-   intelligence. As a developer you will be given the opportunity to work on
-   a variety of projects including coding a general learning algorithm and
-   visualizing a general learning algorithm.
-
-   You must meet these minimum requirements but exceptions can be made given
+1. U must meet these minimum requirements but exceptions can be made given
    applicants with exceptional backgrounds in particular areas.
-   - Know how to use Git & Github.com. If you don't know how I created a 1.5
+   - Know how to use Git & Github.com. If u don't know how I created a 1.5
      hour playlist on how to use Git &
      Github [here](https://www.youtube.com/watch?v=44E8o-xuxWo&list=PLPXsMt57rLtgpwFBqZq4QKxrD9Hhc_8L4).
-   - Be very curious about how the human brain works and realized this is a problem you can
-     and want to solve in your lifetime.
-   - Written at least 2 thousand lines of Python or Javascript in your life. D3.js experience
+   - Be very curious about how the human brain works and realized this is a problem u can
+     and want to solve in ur lifetime.
+   - Written at least 2 thousand lines of Python or Javascript in ur life. D3.js experience
      is a big plus!
-   - Have at least 2 hours of free time each day to video chat with me 4 consecutive
-     days of the week. This is based on the learning principle that if you want to
-     get really good at something you have to work on it consecutively everyday.
 
-3. E-mail quinnliu@vt.edu or mrmohitrathoremr@gmail.com the following:
-   - Link to source code of project you enjoyed working on the most preferably in
-     Python or Javascript or D3.js. I am really just looking for good object oriented design
-     and good documentation.
-   - Why you want to work on wAlnut.
-   - My current rule of thumb for hiring someone is if the roles where reversed and you
-     were hiring me would I want to work for you.
+3. E-mail quinnliu@vt.edu the following:
+   - All of ur Python, Javascript React/Redux, & D3.js projects on github
+     or closed source.
+   - The answer to `if u had 5 years left to live what are all of the things u would do?`
+   - The answer to `what truth do they believe that very few people believe?`
+     Please no answers related to religion. If ur answer is related to
+     education also say how u would fix it.
+   - My current rule of thumb for hiring someone is if the roles where reversed and u
+     were hiring me would I want to work for u.
 
 4. For now we are using the Git workflow model
    [here](https://github.com/WalnutiQ/wAlnut/issues/62) and the Google python style
@@ -255,12 +264,12 @@ for your collaboration as I cannot do this alone. To get started read
    repository effectively.
 
 ## Setup development environment for Mac and Linux
-1. Go to the top right of this page and hit the Fork button. Then clone your forked
+1. Go to the top right of this page and hit the Fork button. Then clone ur forked
    repository locally.
 
 2. Install [Python 3.5.2](https://www.python.org/) and
-   [pip](https://pip.pypa.io/en/stable/installing/). You have installed successfully
-   when you can:
+   [pip](https://pip.pypa.io/en/stable/installing/). U have installed successfully
+   when u can:
 
    ```
    $ python3 --version
@@ -289,7 +298,7 @@ After we understood the principles of flight we were able to build planes that
 are much faster and can carry more weight than birds. After we understand
 the human brain's computation principles we will be able to create intelligent
 machines much more intelligent than humans with unimaginable capabilities. At
-first it will not have any emotions like you and I. This will be a good thing
+first it will not have any emotions like u and I. This will be a good thing
 because it will force us to ask if it would be moral to create an super
 intelligent machine with emotions to help us. It may not necessarily be a
 good thing for the human race. For example, look at how humans treat
@@ -298,7 +307,7 @@ We are more intelligent emotional machines compared to pigs and the future
 super intelligent emotional machines will be much more intelligent compared to
 us. However if the emotional intelligent machine understands Hunter's Law
 and uses it to figure out what is true and what is not true then we think it
-would be okay and safe to create a super intelligent emotional machine. 
+would be okay and safe to create a super intelligent emotional machine.
 
 ## Key Theories
 
@@ -379,7 +388,7 @@ would be okay and safe to create a super intelligent emotional machine.
        from Vicarious.com
          - "*Imagine we are designing a system to distinguish faces from non-faces and we are just
              using 32 by 32 pixel images and 256 shades of grey.*" This is a very reduced version of
-             what your visual brain is doing. "*Even with that reduction it is still
+             what ur visual brain is doing. "*Even with that reduction it is still
              256^1024 different possible combinations you need to be able to distinguish
              between*". Because 32 by 32 with 256 different values is equivalent to the permutation
              (choose value between 0 and 256)(0-256)...32*32 more times.
@@ -406,7 +415,7 @@ would be okay and safe to create a super intelligent emotional machine.
      + 2008 PhD thesis [here](https://github.com/WalnutiQ/papers/blob/master/HowTheBrainMightWork.pdf)
        by Dileep George from Stanford University
          - Figure 1: ![alt text](https://raw.githubusercontent.com/WalnutiQ/wAlnut/develop/walnut/images/explanatory/translation_training_creates_scale_invariance.png)
-         - Notice how the scaling of "A" in (c) would be the exact same input as (b) if you translate the input
+         - Notice how the scaling of "A" in (c) would be the exact same input as (b) if u translate the input
            to the left by 1 pixel.
    - Not supportive:
    - Conclusion: Yes, specific enough to make learning feasible and general
@@ -477,7 +486,7 @@ would be okay and safe to create a super intelligent emotional machine.
 
 ## Code Outline
 
-If you are confused what a file/folder is for:
+If ur confused what a file/folder is for:
 ```
 - walnut/
   - datasets/ = contains zipped datasets generated by https://github.com/WalnutiQ/time_series_data
@@ -486,13 +495,13 @@ If you are confused what a file/folder is for:
   - tests/ = unit tests for code in model folder
     - experiments/ = using the OO model for algorithm experiments
   - utils/
-- wAlnut_environment/ = folder only on your local repo generated by virtualenv
+- wAlnut_environment/ = folder only on ur local repo generated by virtualenv
                         containing libraries we are using
 - .gitignore = contains names of files/folders not to add to this repository
-               but keep in your local wAlnut folder
+               but keep in ur local wAlnut folder
 - .travis.yml = for running this code on Travis's servers to make sure all tests pass
 - LICENSE.txt = GNU General Public License version 3
-- README.md = the file you are reading right now
+- README.md = the file ur reading right now
 - requirements.txt = list of python library versions we are using. These are installed
-                     in your virtual environment during setup
+                     in ur virtual environment during setup
 ```
