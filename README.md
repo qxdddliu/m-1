@@ -21,7 +21,8 @@
 Based on Moore's Law in about 15 years the fastest computer will do more
 operations per second than all the neurons in all the brains of all the people
 who are alive. Because of this we are building a neural lace to prevent
-humans from becoming irrelavent in the future to strong AI.
+humans from becoming irrelavent in the future to strong AI by allowing humans
+to become super intelligent with a neural lace.
 
 Our current hypothesis is the fastest way to build a safe neural lace is to
 build a strong AI first that knows how to figure out what is true and false
@@ -36,16 +37,23 @@ discover new principles of intelligence that evolution missed. This repo is
 currently an object oriented Python implementation of the computational
 framework outlined in Dileep George's PhD thesis [*How the Brain Might Work: A Hierarchical and Temporal Model for Learning and Recognition*](https://github.com/WalnutiQ/papers/blob/master/HowTheBrainMightWork.pdf)
 
+Lastly we believe Dileep George of Vicarious.com deserves a Nobel Peace Prize
+in Neuroscience for his PhD thesis.
+
 ### Road Map for next 15-40 years
-1. By 8/31/2017 solved reCAPTCHA with video evidence.
+1. By 8/31/2017 solved reCAPTCHA with video evidence and code available in
+   this repo.
 2. Sensori-motor training on wAlnut with saccading retina and arm with motor
    feedback capable of drawing an idea.
 3. Show wAlnut is able to imagine everyday objects from clouds.
-4. Teach wAlnut English language and simple things about the world up to
+4. Teach wAlnut English language and simple truths about the universe up to
    average 5 year old human.
 5. Teach wAlnut [Hunter's Law](https://youtu.be/152Fe1Z1vbs) so it can
    figure out what is true and false most efficiently.
-6. Ask wAlnut to build a neural lace for any human who wants one a free one
+6. Show wAlnut is able to imagine a better future and acts towards building it.
+7. Allow several copies of wAlnut to diverge and surpass human level
+   intelligence. 
+8. Ask wAlnut to build a neural lace for any human who wants a free one
    regardless of background from a homeless human to a billionaire human.
 
 This project currently has enough funding to last 22 more months with 3
