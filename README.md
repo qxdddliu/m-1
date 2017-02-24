@@ -15,6 +15,7 @@
     + **[Introduction](#introduction)**
     + **[Key Theories](#key-theories)**
     + **[Code Outline](#code-outline)**
+    + **[Company Culture](#company-culture)**
 
 ## Why and Goals
 
@@ -38,7 +39,7 @@ currently an object oriented Python implementation of the computational
 framework outlined in Dileep George's PhD thesis [*How the Brain Might Work: A Hierarchical and Temporal Model for Learning and Recognition*](https://github.com/WalnutiQ/papers/blob/master/HowTheBrainMightWork.pdf)
 
 Lastly we believe Dileep George of Vicarious.com deserves a Nobel Peace Prize
-in Neuroscience for his PhD thesis.
+in Neuroscience for his PhD thesis. Nobel team get on this!
 
 ### Road Map for next 15-40 years
 1. By 8/31/2017 solved reCAPTCHA with video evidence and code available in
@@ -52,7 +53,7 @@ in Neuroscience for his PhD thesis.
    figure out what is true and false most efficiently.
 6. Show wAlnut is able to imagine a better future and acts towards building it.
 7. Allow several copies of wAlnut to diverge and surpass human level
-   intelligence. 
+   intelligence.
 8. Ask wAlnut to build a neural lace for any human who wants a free one
    regardless of background from a homeless human to a billionaire human.
 
@@ -513,3 +514,32 @@ If ur confused what a file/folder is for:
 - requirements.txt = list of python library versions we are using. These are installed
                      in ur virtual environment during setup
 ```
+
+### Company Culture
+
+Everyone in the company will be part of a team of 5. One lead designer that
+doubles as an agile project manager and 4 developers.
+
+Each team is allowed to work in any city in the world. The office space for
+each team will be an nice airbnb with super fast wifi in a central location to
+where everyone in the team lives.
+
+Each team is assigned a 6 week long project. At the end of the 6 weeks each
+team will create a 5 minute video demoing their project. There will also be teams
+dedicated to HR and devops issues. If issues arise mid project each team is
+encouraged to try to solve it themselves first but if they cannot they should
+contact leadership in the company who will welcome the bad news.
+
+After the 6 week projects everyone in the company takes 1 full unpaid week off.
+Then everyone spends 1 week watching all of the videos of each team, giving
+feedback, and pitching ideas for the next 6 week projects. After the leadership
+in the company approves which projects are approved teams will be formed.
+Everyone in the company is allowed to switch teams and move to a new city every
+6 weeks if there is space available in another team.
+
+Each employee of WalnutiQ will be given health, dental, and vision insurance,
+as well as short and long term disability.
+
+Once a year, the entire company (including a +1 and kids) will be flown to
+a fun city for a weeklong vacation. The city will be chosen through popular
+vote by employees and not electoral college ;)
