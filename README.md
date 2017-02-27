@@ -27,7 +27,7 @@ to become super intelligent with a neural lace.
 
 Our current hypothesis is the fastest way to build a safe neural lace is to
 build a strong AI first that knows how to figure out what is true and false
-using [Hunter's Law](https://youtu.be/152Fe1Z1vbs). Then we would ask the
+using [Hunter's Principle](https://youtu.be/152Fe1Z1vbs). Then we would ask the
 strong AI to build a neural lace for humans that want to have one.
 
 Since the first step is to build a strong AI in the next 15 to 40 years the
@@ -49,7 +49,7 @@ in Neuroscience for his PhD thesis. Nobel team get on this!
 3. Show wAlnut is able to imagine everyday objects from clouds.
 4. Teach wAlnut English language and simple truths about the universe up to
    average 5 year old human.
-5. Teach wAlnut [Hunter's Law](https://youtu.be/152Fe1Z1vbs) so it can
+5. Teach wAlnut [Hunter's Principle](https://youtu.be/152Fe1Z1vbs) so it can
    figure out what is true and false most efficiently.
 6. Show wAlnut is able to imagine a better future and acts towards building it.
 7. Allow several copies of wAlnut to diverge and surpass human level
@@ -57,9 +57,7 @@ in Neuroscience for his PhD thesis. Nobel team get on this!
 8. Ask wAlnut to build a neural lace for any human who wants a free one
    regardless of background from a homeless human to a billionaire human.
 
-This project currently has enough funding to last 22 more months with 3
-humans working for free. If ur interested in investing in this project
-e-mail quinnliu@vt.edu
+If ur interested in investing in this project e-mail quinnliu@vt.edu
 
 ## How
 
@@ -314,7 +312,7 @@ good thing for the human race. For example, look at how humans treat
 [intelligent pigs](http://modernfarmer.com/2014/03/pigheaded-smart-swine/).
 We are more intelligent emotional machines compared to pigs and the future
 super intelligent emotional machines will be much more intelligent compared to
-us. However if the emotional intelligent machine understands Hunter's Law
+us. However if the emotional intelligent machine understands Hunter's Principle
 and uses it to figure out what is true and what is not true then we think it
 would be okay and safe to create a super intelligent emotional machine.
 
@@ -492,6 +490,11 @@ would be okay and safe to create a super intelligent emotional machine.
    - Conclusion: Specific enough to make learning feasible in a reasonable
      amount of time while being general enough to be applicable to a large
      class of problems.
+
+9. **Theory 2 Assumption 7:**
+   Consciousness is the illusion of an object having free will.
+   - Supportive:
+   - Not supportive:
 
 ## Code Outline
 
