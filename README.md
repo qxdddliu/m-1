@@ -245,30 +245,14 @@ for ur collaboration as I cannot do this alone. To get started read
 **[setup development environment for Mac and Linux](#setup-development-environment-for-mac-and-linux)**.
 
 ## How to contribute
-1. U must meet these minimum requirements but exceptions can be made given
-   applicants with exceptional backgrounds in particular areas.
-   - Know how to use Git & Github.com. If u don't know how I created a 1.5
-     hour playlist on how to use Git &
-     Github [here](https://www.youtube.com/watch?v=44E8o-xuxWo&list=PLPXsMt57rLtgpwFBqZq4QKxrD9Hhc_8L4).
-   - Be very curious about how the human brain works and realized this is a problem u can
-     and want to solve in ur lifetime.
-   - Written at least 2 thousand lines of Python or Javascript in ur life. D3.js experience
-     is a big plus!
+1. e-mail quinnliu@vt.edu ur schedule of when ur free after 7pm-11pm EST any
+   day of the week for a 5 min. conversation to make sure our goals align. Also
+   include a phone number :)
 
-3. E-mail quinnliu@vt.edu the following:
-   - All of ur Python, Javascript React/Redux, & D3.js projects on github
-     or closed source.
-   - The answer to `if u had 5 years left to live what are all of the things u would do?`
-   - The answer to `what truth do they believe that very few people believe?`
-     Please no answers related to religion. If ur answer is related to
-     education also say how u would fix it.
-   - My current rule of thumb for hiring someone is if the roles where reversed and u
-     were hiring me would I want to work for u.
-
-4. For now we are using the Git workflow model
-   [here](https://github.com/WalnutiQ/wAlnut/issues/62) and the Google python style
-   guide [here](https://google.github.io/styleguide/pyguide.html) to contribute to this
-   repository effectively.
+2. For now we are using the Git workflow model
+   [here](https://github.com/WalnutiQ/wAlnut/issues/62) and the Google python
+   style guide [here](https://google.github.io/styleguide/pyguide.html) to
+   contribute to this repository effectively.
 
 ## Setup development environment for Mac and Linux
 1. Go to the top right of this page and hit the Fork button. Then clone ur forked
