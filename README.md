@@ -42,26 +42,29 @@ Lastly we believe Dileep George of Vicarious.com deserves a Nobel Peace Prize
 in Neuroscience for his PhD thesis. Nobel team get on this!
 
 ### Road Map for next 15-40 years
-1. By 8/31/2017 solved reCAPTCHA with video evidence and code available in
-   this repo.
-2. Sensori-motor training on wAlnut with saccading retina and arm with motor
+1. Replicate Dileep's PhD picture example with video evidence and code available
+   in this repo by 4/1/2017.
+2. Teach free course on how to efficiently build strong AI with youtube videos
+   and in-person labs that are broadcasted live.
+3. Solve reCAPTCHA with video evidence and code available in this repo.
+4. Sensori-motor training on wAlnut with saccading retina and arm with motor
    feedback capable of drawing an idea.
-3. Show wAlnut is able to imagine everyday objects from clouds.
-4. Teach wAlnut English language and simple truths about the universe up to
+5. Show wAlnut is able to imagine everyday objects from clouds.
+6. Teach wAlnut English language and simple truths about the universe up to
    average 5 year old human.
-5. Teach wAlnut [Hunter's Principle](https://youtu.be/152Fe1Z1vbs) so it can
+7. Teach wAlnut [Hunter's Principle](https://youtu.be/152Fe1Z1vbs) so it can
    figure out what is true and false most efficiently.
-6. Show wAlnut is able to imagine a better future and acts towards building it.
-7. Allow several copies of wAlnut to diverge and surpass human level
+8. Show wAlnut is able to imagine a better future and acts towards building it.
+9. Allow several copies of wAlnut to diverge and surpass human level
    intelligence.
-8. Ask wAlnut to build a neural lace for any human who wants a free one
+10. Ask wAlnut to build a neural lace for any human who wants a free one
    regardless of background from a homeless human to a billionaire human.
 
-If ur interested in investing in this project e-mail quinnliu@vt.edu
+If ur interested in investing in this company e-mail quinnliu@vt.edu
 
 ## How
 
-## How to Develop the Confidence to Work on this Project
+## How to Develop the Confidence to Work on strong AI
 
 Start with the most fundamental truths and reason up from there.
 
@@ -71,7 +74,7 @@ Then watch this video on [how to live by Neil](https://www.youtube.com/watch?v=i
 
 The best approach we have come across for building an artificial general intelligence
 (AGI) are summarized in this [video by Dileep](https://www.youtube.com/watch?v=NPtAIVieh4k) and
-is the same approach used for this project.
+is the same approach we use.
 
 The following are the key points:
 
@@ -508,7 +511,7 @@ Everyone in the company will be part of a team of 5. One lead designer that
 doubles as an agile project manager and 4 developers.
 
 Each team is allowed to work in any city in the world. The office space for
-each team will be an nice airbnb with super fast wifi in a central location to
+each team will be an nice AirBnB with super fast wifi in a central location to
 where everyone in the team lives.
 
 Each team is assigned a 6 week long project. At the end of the 6 weeks each
