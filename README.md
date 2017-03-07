@@ -43,9 +43,8 @@ in Neuroscience for his PhD thesis. Nobel team get on this!
 
 ### Road Map for next 15-40 years
 1. Replicate Dileep's PhD picture example with video evidence and code available
-   in this repo by 4/1/2017.
-2. Teach free course on how to efficiently build strong AI with youtube videos
-   and in-person labs that are broadcasted live.
+   in this repo.
+2. Teach free course on how to efficiently build strong AI with youtube videos.
 3. Solve reCAPTCHA with video evidence and code available in this repo.
 4. Sensori-motor training on wAlnut with saccading retina and arm with motor
    feedback capable of drawing an idea.
@@ -58,7 +57,8 @@ in Neuroscience for his PhD thesis. Nobel team get on this!
 9. Allow several copies of wAlnut to diverge and surpass human level
    intelligence.
 10. Ask wAlnut to build a neural lace for any human who wants a free one
-   regardless of background from a homeless human to a billionaire human.
+   regardless of background from a homeless human to a billionaire human so
+   everyone is allowed to merge with the strong AI. 
 
 If ur interested in investing in this company e-mail quinnliu@vt.edu
 
