@@ -58,9 +58,11 @@ in Neuroscience for his PhD thesis. Nobel team get on this!
 8. Show wAlnut is able to imagine a better future and acts towards building it.
 9. Allow several copies of wAlnut to diverge and surpass human level
    intelligence.
-10. Ask wAlnut to build a neural lace for any human who wants a free one
-   regardless of background from a homeless human to a billionaire human so
-   everyone is allowed to merge with the strong AI. 
+10. Because the truth is there is no free will and that humans are destined
+   to be upgraded into robotic bodies and expandable brains we believe that
+   the strong AI species will help any human that wants to merge with the
+   strong AI regardless of background from a homeless human to a billionaire
+   human.
 
 If ur interested in investing in this project e-mail quinnliu@vt.edu
 
