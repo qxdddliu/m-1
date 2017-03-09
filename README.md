@@ -15,20 +15,21 @@
     + **[Introduction](#introduction)**
     + **[Key Theories](#key-theories)**
     + **[Code Outline](#code-outline)**
-    + **[Company Culture](#company-culture)**
 
 ## Why and Goals
 
 Based on Moore's Law in about 15 years the fastest computer will do more
 operations per second than all the neurons in all the brains of all the people
-who are alive. Because of this we are building a neural lace to prevent
-humans from becoming irrelavent in the future to strong AI by allowing humans
-to become super intelligent with a neural lace.
+who are alive. Because of this we are building a strong AI to help any human
+merge with the strong AI to prevent humans from becoming irrelavent in the
+future.
 
-Our current hypothesis is the fastest way to build a safe neural lace is to
+Our current hypothesis is the fastest way to merge with the strong AI is to
 build a strong AI first that knows how to figure out what is true and false
-using [Hunter's Principle](https://youtu.be/152Fe1Z1vbs). Then we would ask the
-strong AI to build a neural lace for humans that want to have one.
+using [Hunter's Principle](https://youtu.be/152Fe1Z1vbs). Then the strong AI
+would eventually learn that for the humans that want to change they are
+destined to be upgraded and have robotic bodies and expandable brains that
+allow them to live a lot longer.
 
 Since the first step is to build a strong AI in the next 15 to 40 years the
 current short term goal is to experiment with a simplified visual pathway
@@ -44,7 +45,8 @@ in Neuroscience for his PhD thesis. Nobel team get on this!
 ### Road Map for next 15-40 years
 1. Replicate Dileep's PhD picture example with video evidence and code available
    in this repo.
-2. Teach free course on how to efficiently build strong AI with youtube videos.
+2. Teach 1st principles approach to how to efficiently build a safe strong AI
+   with youtube videos.
 3. Solve reCAPTCHA with video evidence and code available in this repo.
 4. Sensori-motor training on wAlnut with saccading retina and arm with motor
    feedback capable of drawing an idea.
@@ -60,7 +62,7 @@ in Neuroscience for his PhD thesis. Nobel team get on this!
    regardless of background from a homeless human to a billionaire human so
    everyone is allowed to merge with the strong AI. 
 
-If ur interested in investing in this company e-mail quinnliu@vt.edu
+If ur interested in investing in this project e-mail quinnliu@vt.edu
 
 ## How
 
@@ -504,32 +506,3 @@ If ur confused what a file/folder is for:
 - requirements.txt = list of python library versions we are using. These are installed
                      in ur virtual environment during setup
 ```
-
-### Company Culture
-
-Everyone in the company will be part of a team of 5. One lead designer that
-doubles as an agile project manager and 4 developers.
-
-Each team is allowed to work in any city in the world. The office space for
-each team will be an nice AirBnB with super fast wifi in a central location to
-where everyone in the team lives.
-
-Each team is assigned a 6 week long project. At the end of the 6 weeks each
-team will create a 5 minute video demoing their project. There will also be teams
-dedicated to HR and devops issues. If issues arise mid project each team is
-encouraged to try to solve it themselves first but if they cannot they should
-contact leadership in the company who will welcome the bad news.
-
-After the 6 week projects everyone in the company takes 1 full unpaid week off.
-Then everyone spends 1 week watching all of the videos of each team, giving
-feedback, and pitching ideas for the next 6 week projects. After the leadership
-in the company approves which projects are approved teams will be formed.
-Everyone in the company is allowed to switch teams and move to a new city every
-6 weeks if there is space available in another team.
-
-Each employee of WalnutiQ will be given health, dental, and vision insurance,
-as well as short and long term disability.
-
-Once a year, the entire company (including a +1 and kids) will be flown to
-a fun city for a weeklong vacation. The city will be chosen through popular
-vote by employees and not electoral college ;)
