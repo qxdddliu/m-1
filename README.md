@@ -4,6 +4,7 @@
 [![Build Status](https://travis-ci.org/WalnutiQ/wAlnut.svg?branch=develop)](https://travis-ci.org/WalnutiQ/wAlnut)
 [![Coverage Status](https://coveralls.io/repos/github/WalnutiQ/wAlnut/badge.svg?branch=develop)](https://coveralls.io/github/WalnutiQ/wAlnut?branch=develop)
 
+UPDATE: Development for this project became closed source 3/28/2017
 
 #### Table of Contents
 - **[Why and Goals](#why-and-goals)**
