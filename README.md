@@ -5,7 +5,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/WalnutiQ/wAlnut/badge.svg?branch=develop)](https://coveralls.io/github/WalnutiQ/wAlnut?branch=develop)
 
 UPDATE: Development for this project has stopped because I realized I was wrong and I am now building a neural lace. 
-If ur interested e-mail me at quinnliu@vt.edu with ur phone number and times ur available for a 5 minute chat :)
+If ur interested e-mail me at quinnliu@vt.edu with ur phone #, timezone, and times ur available for a 5 minute chat :)
 
 #### Table of Contents
 - **[Why and Goals](#why-and-goals)**
@@ -28,7 +28,7 @@ future.
 
 Our current hypothesis is the fastest way to merge with the strong AI is to
 build a strong AI first that knows how to figure out what is true and false
-using [Hunter's Principle](https://youtu.be/152Fe1Z1vbs). Then the strong AI
+using [Hunter's Principle](https://youtu.be/lsFYMO4dfhc). Then the strong AI
 would eventually learn that for the humans that want to change they are
 destined to be upgraded and have robotic bodies and expandable brains that
 allow them to live a lot longer.
