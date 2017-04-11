@@ -4,7 +4,8 @@
 [![Build Status](https://travis-ci.org/WalnutiQ/wAlnut.svg?branch=develop)](https://travis-ci.org/WalnutiQ/wAlnut)
 [![Coverage Status](https://coveralls.io/repos/github/WalnutiQ/wAlnut/badge.svg?branch=develop)](https://coveralls.io/github/WalnutiQ/wAlnut?branch=develop)
 
-UPDATE: Development for this project became closed source 3/28/2017
+UPDATE: Development for this project has stopped because I realized I was wrong and I am now building a neural lace. 
+If ur interested e-mail me at quinnliu@vt.edu with ur phone number and times ur available for a 5 minute chat :)
 
 #### Table of Contents
 - **[Why and Goals](#why-and-goals)**
