@@ -4,8 +4,18 @@
 [![Build Status](https://travis-ci.org/WalnutiQ/wAlnut.svg?branch=develop)](https://travis-ci.org/WalnutiQ/wAlnut)
 [![Coverage Status](https://coveralls.io/repos/github/WalnutiQ/wAlnut/badge.svg?branch=develop)](https://coveralls.io/github/WalnutiQ/wAlnut?branch=develop)
 
-UPDATE: Development for this project has stopped because I realized I was wrong and I am now building a neural lace. 
-If ur interested e-mail me at quinnliu@vt.edu with ur phone #, timezone, and times ur available for a 5 minute chat :)
+UPDATE: Development for this project has stopped because I realized <b>I was wrong about building strong AI to help 
+humanity</b>. I now believe strong AI should not be built. The argument that convinced me I was wrong goes like this:
+1. Humans are the domaint species on Earth because of our intelligence.
+2. If we make another species (code based strong AI) smarter than us then there is no way for us to control it because
+   it is more intelligent than all of humanity combined. 
+3. There is also a very high chance that it will use humans for purposes we do not want. Just look at how we treat
+   species that are less intelligent than us.
+4. We cannot stop the human that are researching strong AI so one solution is to increase human intelligence. 
+
+If we define human intelligence as the ability to predict the future and act on it that is beneficial to itself and others,
+one way to increase human intelligence would be to build a [neural lace](http://waitbutwhy.com/2017/04/neuralink.html). If ur interested e-mail me at quinnliu@vt.edu 
+with ur phone #, timezone, and times ur available for a 5 minute chat :)
 
 #### Table of Contents
 - **[Why and Goals](#why-and-goals)**
