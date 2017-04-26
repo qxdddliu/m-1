@@ -2,7 +2,6 @@
 
 *Think 1st principles*  
 [![Build Status](https://travis-ci.org/WalnutiQ/wAlnut.svg?branch=develop)](https://travis-ci.org/WalnutiQ/wAlnut)
-[![Coverage Status](https://coveralls.io/repos/github/WalnutiQ/wAlnut/badge.svg?branch=develop)](https://coveralls.io/github/WalnutiQ/wAlnut?branch=develop)
 
 UPDATE: Development for this project has stopped because I realized <b>I was wrong about building strong AI to help 
 humanity</b>. I now believe strong AI should not be built. The argument that convinced me I was wrong goes like this:
