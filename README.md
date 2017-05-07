@@ -3,10 +3,6 @@
 *Think 1st principles*  
 [![Build Status](https://travis-ci.org/WalnutiQ/wAlnut.svg?branch=develop)](https://travis-ci.org/WalnutiQ/wAlnut)
 
-<b>MESSAGE TO THE HATERS:</b> I do realize how crazy this project sounds to someone who has not implemented a neural 
-network, Numenta's CLA algorithm, and Vicarious' HTM model themselves. So before u hate on this project go quit ur job and 
-do that first. Then ur opinion becomes valuable. Not before. 
-
 <b>UPDATE:</b> Development for this project has stopped because I realized <b>I was wrong about building strong AI
 to help humanity</b>. I now believe strong AI should not be built. The argument that convinced me I was wrong goes like this:
 1. Humans are the domaint species on Earth because of our intelligence.
