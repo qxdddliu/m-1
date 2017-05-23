@@ -55,26 +55,17 @@ Lastly we believe Dileep George of Vicarious.com deserves a Nobel Peace Prize
 in Neuroscience for his PhD thesis. Nobel team get on this!
 
 ### Road Map for next 15-40 years
-1. Replicate Dileep's PhD picture example with video evidence and code available
-   in this repo.
-2. Teach 1st principles approach to how to efficiently build a safe strong AI
-   with youtube videos.
-3. Solve reCAPTCHA with video evidence and code available in this repo.
-4. Sensori-motor training on wAlnut with saccading retina and arm with motor
+1. Solve reCAPTCHA with video evidence and code available in this repo.
+2. Sensori-motor training on wAlnut with saccading retina and arm with motor
    feedback capable of drawing an idea.
-5. Show wAlnut is able to imagine everyday objects from clouds.
-6. Teach wAlnut English language and simple truths about the universe up to
+3. Show wAlnut is able to imagine everyday objects from clouds.
+4. Teach wAlnut English language and simple truths about the universe up to
    average 5 year old human.
-7. Teach wAlnut [Hunter's Principle](https://youtu.be/152Fe1Z1vbs) so it can
+5. Teach wAlnut [Hunter's Principle](https://youtu.be/152Fe1Z1vbs) so it can
    figure out what is true and false most efficiently.
-8. Show wAlnut is able to imagine a better future and acts towards building it.
-9. Allow several copies of wAlnut to diverge and surpass human level
+6. Show wAlnut is able to imagine a better future and acts towards building it.
+7. Allow several copies of wAlnut to diverge and surpass human level
    intelligence.
-10. Because the truth is there is no free will and that humans are destined
-   to be upgraded into robotic bodies and expandable brains we believe that
-   the strong AI species will help any human that wants to merge with the
-   strong AI regardless of background from a homeless human to a billionaire
-   human.
 
 If ur interested in investing in this project e-mail quinnliu@vt.edu
 
