@@ -6,28 +6,36 @@
 <b>UPDATE:</b> Development for this project has changed into a completely
 different goal because I realized <b>I was wrong about building artificial
 general intelligence(AGI) to help humanity</b> after considering the ideas by
-[Elon Musk in the Future of Life Institute talk](https://youtu.be/h0962biiZa4)
+[Elon Musk's points in the Future of Life Institute conversation](https://youtu.be/h0962biiZa4)
 and reading [Superintelligence by Nick Bostrom](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742).
-I think as an AGI researcher it is very easy to not consider the morality
-of AGI research and how it may negatively effect the future. For the past five
-years it was so easy to have confirmation bias toward only the positive effects
-of AGI while a part of me avoided the question of `how do you control something
-that is smarter than all of humanity combined?`. The answer is you can not. I
-now believe AGI should not be built and instead the solution is to increase
-human intelligence through a neural lace. The argument that convinced me I was
-wrong goes like this:
+
+I think one of the many bugs in the human brain is to focus too much on the
+"how" and "what" and not on the "why". I believe it is more important to be
+scrupulous about the "why" like Nobel Laureate Einstein in researching the
+theory of general relativity instead of the "how" and "what" like Nobel Laureate
+Fritz Haber in researching the Haber-Bosch process that was originally used to
+feed the world but then later used by him to deploy the first large scale use of
+chemical weapons making him a [war criminal](http://chemicalweapons.cenmag.org/who-was-the-father-of-chemical-weapons/).
+
+For the past five years it was so easy for me to have confirmation bias toward
+only the positive effects of AGI while a part of me avoided the question of
+`how do you control something that is smarter than all of humanity combined?`.
+The answer is you can not. I now believe AGI should not be built privately
+or publicly and instead one solution is to increase human intelligence with a
+neural lace. The argument that convinced me I was wrong goes like this:
+
 1. Humans are the dominant species on Earth because of our intelligence.
-2. If we make another species (code based strong AI) smarter than us then there
+2. If we make another species (code based AGI) smarter than us then there
    is no way for us to control it because it is more intelligent than all of
-humanity combined.
+   humanity combined.
 3. There is a very high chance that it will use humans for purposes we do not
    want. Look at how we treat species that are less intelligent than us.
-4. We cannot stop the humans that are researching strong AI so one solution is
+4. We cannot stop the humans that are researching AGI so one solution is
    to increase human intelligence.
 
-If we define human intelligence as the ability to predict the future and act on
-it that is beneficial to itself and others, one way to increase human
-intelligence would be to build a [neural lace](http://waitbutwhy.com/2017/04/neuralink.html)
+If we define human intelligence as one's ability to predict the future and act
+on it in a way that is beneficial to oneself and others, one way to increase
+human intelligence would be to build a [neural lace](http://waitbutwhy.com/2017/04/neuralink.html)
 privately and help the mentally disabled first. If your interested in working
 on this together e-mail me at quinnliu@vt.edu :)
 
@@ -46,18 +54,18 @@ on this together e-mail me at quinnliu@vt.edu :)
 
 Based on Moore's Law in about 15 years the fastest computer will do more
 operations per second than all the neurons in all the brains of all the people
-who are alive. Because of this we are building a strong AI to help any human
-merge with the strong AI to prevent humans from becoming irrelavent in the
+who are alive. Because of this we are building a AGI to help any human
+merge with the AGI to prevent humans from becoming irrelavent in the
 future.
 
-Our current hypothesis is the fastest way to merge with the strong AI is to
-build a strong AI first that knows how to figure out what is true and false
-using [Hunter's Principle](https://youtu.be/lsFYMO4dfhc). Then the strong AI
+Our current hypothesis is the fastest way to merge with the AGI is to
+build a AGI first that knows how to figure out what is true and false
+using [Hunter's Principle](https://youtu.be/lsFYMO4dfhc). Then the AGI
 would eventually learn that for the humans that want to change they are
 destined to be upgraded and have robotic bodies and expandable brains that
 allow them to live a lot longer.
 
-Since the first step is to build a strong AI in the next 15 to 40 years the
+Since the first step is to build a AGI in the next 15 to 40 years the
 current short term goal is to experiment with a simplified visual pathway
 from an eye that sees binary bitmap training videos to experimental general
 learning algorithms to understand the key principles of intelligence and
@@ -85,7 +93,7 @@ If your interested in investing in this project e-mail quinnliu@vt.edu
 
 ## How
 
-## How to Develop the Confidence to Work on strong AI
+## How to Develop the Confidence to Work on AGI
 
 Start with the most fundamental truths and reason up from there.
 
