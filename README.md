@@ -2,9 +2,19 @@
 
 *Think 1st principles*  
 [![Build Status](https://travis-ci.org/WalnutiQ/wAlnut.svg?branch=develop)](https://travis-ci.org/WalnutiQ/wAlnut)
-[![Coverage Status](https://coveralls.io/repos/github/WalnutiQ/wAlnut/badge.svg?branch=develop)](https://coveralls.io/github/WalnutiQ/wAlnut?branch=develop)
 
-UPDATE: Development for this project became closed source 3/28/2017
+<b>UPDATE:</b> Development for this project has changed into a completely different goal because I realized <b>I was wrong about building strong AI to help humanity</b> after considering the ideas by [Elon Musk in the Future of Life Institute talk](https://youtu.be/h0962biiZa4) and reading [Superintelligence by Nick Bostrom](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742). I now believe strong AI should not be built and instead the solution is to increase human intelligence through a neural lace. The simple argument that convinced me I was wrong goes like this:
+1. Humans are the domaint species on Earth because of our intelligence.
+2. If we make another species (code based strong AI) smarter than us then there is no way for us to control it because
+   it is more intelligent than all of humanity combined. 
+3. There is a very high chance that it will use humans for purposes we do not want. Look at how we treat
+   species that are less intelligent than us.
+4. We cannot stop the humans that are researching strong AI so one solution is to increase human intelligence. 
+
+If we define human intelligence as the ability to predict the future and act on it that is beneficial to itself and 
+others, one way to increase human intelligence would be to build a 
+[neural lace](http://waitbutwhy.com/2017/04/neuralink.html) privately and help the mentally disabled first.  
+If your interested in working on this together e-mail me at quinnliu@vt.edu :)
 
 #### Table of Contents
 - **[Why and Goals](#why-and-goals)**
@@ -27,7 +37,7 @@ future.
 
 Our current hypothesis is the fastest way to merge with the strong AI is to
 build a strong AI first that knows how to figure out what is true and false
-using [Hunter's Principle](https://youtu.be/152Fe1Z1vbs). Then the strong AI
+using [Hunter's Principle](https://youtu.be/lsFYMO4dfhc). Then the strong AI
 would eventually learn that for the humans that want to change they are
 destined to be upgraded and have robotic bodies and expandable brains that
 allow them to live a lot longer.
@@ -44,28 +54,19 @@ Lastly we believe Dileep George of Vicarious.com deserves a Nobel Peace Prize
 in Neuroscience for his PhD thesis. Nobel team get on this!
 
 ### Road Map for next 15-40 years
-1. Replicate Dileep's PhD picture example with video evidence and code available
-   in this repo.
-2. Teach 1st principles approach to how to efficiently build a safe strong AI
-   with youtube videos.
-3. Solve reCAPTCHA with video evidence and code available in this repo.
-4. Sensori-motor training on wAlnut with saccading retina and arm with motor
+1. Solve reCAPTCHA with video evidence and code available in this repo.
+2. Sensori-motor training on wAlnut with saccading retina and arm with motor
    feedback capable of drawing an idea.
-5. Show wAlnut is able to imagine everyday objects from clouds.
-6. Teach wAlnut English language and simple truths about the universe up to
+3. Show wAlnut is able to imagine everyday objects from clouds.
+4. Teach wAlnut English language and simple truths about the universe up to
    average 5 year old human.
-7. Teach wAlnut [Hunter's Principle](https://youtu.be/152Fe1Z1vbs) so it can
+5. Teach wAlnut [Hunter's Principle](https://youtu.be/152Fe1Z1vbs) so it can
    figure out what is true and false most efficiently.
-8. Show wAlnut is able to imagine a better future and acts towards building it.
-9. Allow several copies of wAlnut to diverge and surpass human level
+6. Show wAlnut is able to imagine a better future and acts towards building it.
+7. Allow several copies of wAlnut to diverge and surpass human level
    intelligence.
-10. Because the truth is there is no free will and that humans are destined
-   to be upgraded into robotic bodies and expandable brains we believe that
-   the strong AI species will help any human that wants to merge with the
-   strong AI regardless of background from a homeless human to a billionaire
-   human.
 
-If ur interested in investing in this project e-mail quinnliu@vt.edu
+If your interested in investing in this project e-mail quinnliu@vt.edu
 
 ## How
 
@@ -85,7 +86,7 @@ The following are the key points:
 
 1. **_When looking at neuroscience for inspiration consider adding something to your computational
    framework if it is present in reality and neurobiology._**
-     - This is because the neurons in ur brain are trying to do 3 things:
+     - This is because the neurons in your brain are trying to do 3 things:
          + 1) stay alive
          + 2) communicate with other parts of the brain limited by the evolved neurobiology
            at the time
@@ -130,7 +131,7 @@ The following are the key points:
        strive to use the best substitutes to model the principles of general flight.
 
 4. **_Do not try to find all principles of general intelligence from neuroscience._**
-     - This is because if ur assuming that the human brain has discovered
+     - This is because if your assuming that the human brain has discovered
        all the principles to general intelligence which is very wrong. Evolution
        accidentally discovered several principles of general intelligence over
        hundreds of thousands of years. There are definitely some principles it
@@ -153,7 +154,7 @@ The following are additional strategies being used that are not presented in the
      - 2) In my past I have believed in ideas that are false because I have no control over the information
        I am presented. For example I have believed:
        + Santa is real, if u eat earwax u go deaf, there is a god that looks similar to humans,
-         there is free will, ur born with confidence and can't learn how to be confident, ...
+         there is free will, your born with confidence and can't learn how to be confident, ...
      - **Example:**
        Say there is idea A and idea B that contradict each other. And u notice that the number of people that
        strongly believe idea A after having something happen to them decide to strongly believe in idea B is more than
@@ -202,16 +203,16 @@ Remember "*what I cannot create I do not understand*" was said by Richard Feynma
 Then think about what an intelligent machine needs to be able to do from first
 principles.
 
-Experiment with ur model on tasks that only intelligent machines seem to be
+Experiment with your model on tasks that only intelligent machines seem to be
 good at. Be open to ways to change the model. Remember that the
 earth was born about 4.6 billion years ago and that it took evolution about
 4.6 billion - 200,000 years to create the first homo sapiens. This shit takes
-time so if ur frustrated go relax.
+time so if your frustrated go relax.
 
 And as stupid as it sounds remember that it is the journey u go on that makes
-everything worth it when u look back. If ur happiness depends on reaching
-any goal in this project ur happiness will only be temporary. U have made
-the false assumption that ur default state is not happiness because throughout
+everything worth it when u look back. If your happiness depends on reaching
+any goal in this project your happiness will only be temporary. You have made
+the false assumption that your default state is not happiness because throughout
 ur life others have told i:
 
 Others: `U should feel successful only if u are the best`  
@@ -222,7 +223,7 @@ The advice communicated by others whether through their actions or words comes
 from a place of insecurity and fear of others while the latter comes from a place
 of curiosity and love of urself and others.
 
-Here are some other examples of how ur past experiences are pushing u
+Here are some other examples of how your past experiences are pushing u
 towards being less like urself and how u can change it:
 
 Others: `U should feel successful if u listen to what I tell u and not question it`  
@@ -238,7 +239,7 @@ Becomes: `I should feel luckily if I am accepted by few deeply and I should
 help others improve themselves a little bit everyday`
 
 In each of these examples we removed happiness being dependent on some kind of success.
-<b>U deserve to be happy by default</b> and should reach for ur goals from
+<b>U deserve to be happy by default</b> and should reach for your goals from
 a place of curiosity and love of urself and others instead of insecurity and fear of
 others.
 
@@ -247,8 +248,8 @@ hope in humanity in any way u
 feel is right and take as much time as u need. When u get back up u will
 be a stronger version of urself and ready to fail even harder again.
 
-If ur interested in becoming a researcher/developer, I would be grateful
-for ur collaboration as I cannot do this alone. To get started read
+If your interested in becoming a researcher/developer, I would be grateful
+for your collaboration as I cannot do this alone. To get started read
 **[how to contribute](#how-to-contribute)** and then
 **[setup development environment for Mac and Linux](#setup-development-environment-for-mac-and-linux)**.
 
