@@ -3,18 +3,33 @@
 *Think 1st principles*  
 [![Build Status](https://travis-ci.org/WalnutiQ/wAlnut.svg?branch=develop)](https://travis-ci.org/WalnutiQ/wAlnut)
 
-<b>UPDATE:</b> Development for this project has changed into a completely different goal because I realized <b>I was wrong about building strong AI to help humanity</b> after considering the ideas by [Elon Musk in the Future of Life Institute talk](https://youtu.be/h0962biiZa4) and reading [Superintelligence by Nick Bostrom](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742). I now believe strong AI should not be built and instead the solution is to increase human intelligence through a neural lace. The simple argument that convinced me I was wrong goes like this:
-1. Humans are the domaint species on Earth because of our intelligence.
-2. If we make another species (code based strong AI) smarter than us then there is no way for us to control it because
-   it is more intelligent than all of humanity combined. 
-3. There is a very high chance that it will use humans for purposes we do not want. Look at how we treat
-   species that are less intelligent than us.
-4. We cannot stop the humans that are researching strong AI so one solution is to increase human intelligence. 
+<b>UPDATE:</b> Development for this project has changed into a completely
+different goal because I realized <b>I was wrong about building artificial
+general intelligence(AGI) to help humanity</b> after considering the ideas by
+[Elon Musk in the Future of Life Institute talk](https://youtu.be/h0962biiZa4)
+and reading [Superintelligence by Nick Bostrom](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742).
+I think as an AGI researcher it is very easy to not consider the morality
+of AGI research and how it may negatively effect the future. For the past five
+years it was so easy to have confirmation bias toward only the positive effects
+of AGI while a part of me avoided the question of `how do you control something
+that is smarter than all of humanity combined?`. The answer is you can not. I
+now believe AGI should not be built and instead the solution is to increase
+human intelligence through a neural lace. The argument that convinced me I was
+wrong goes like this:
+1. Humans are the dominant species on Earth because of our intelligence.
+2. If we make another species (code based strong AI) smarter than us then there
+   is no way for us to control it because it is more intelligent than all of
+humanity combined.
+3. There is a very high chance that it will use humans for purposes we do not
+   want. Look at how we treat species that are less intelligent than us.
+4. We cannot stop the humans that are researching strong AI so one solution is
+   to increase human intelligence.
 
-If we define human intelligence as the ability to predict the future and act on it that is beneficial to itself and 
-others, one way to increase human intelligence would be to build a 
-[neural lace](http://waitbutwhy.com/2017/04/neuralink.html) privately and help the mentally disabled first.  
-If your interested in working on this together e-mail me at quinnliu@vt.edu :)
+If we define human intelligence as the ability to predict the future and act on
+it that is beneficial to itself and others, one way to increase human
+intelligence would be to build a [neural lace](http://waitbutwhy.com/2017/04/neuralink.html)
+privately and help the mentally disabled first. If your interested in working
+on this together e-mail me at quinnliu@vt.edu :)
 
 #### Table of Contents
 - **[Why and Goals](#why-and-goals)**
@@ -153,10 +168,10 @@ The following are additional strategies being used that are not presented in the
      - 1) Every human is susceptible to believing in wrong ideas this since there is no free will.
      - 2) In my past I have believed in ideas that are false because I have no control over the information
        I am presented. For example I have believed:
-       + Santa is real, if u eat earwax u go deaf, there is a god that looks similar to humans,
+       + Santa is real, if you eat earwax you go deaf, there is a god that looks similar to humans,
          there is free will, your born with confidence and can't learn how to be confident, ...
      - **Example:**
-       Say there is idea A and idea B that contradict each other. And u notice that the number of people that
+       Say there is idea A and idea B that contradict each other. And you notice that the number of people that
        strongly believe idea A after having something happen to them decide to strongly believe in idea B is more than
        the other way around. THEN it is pretty likely idea B is more truthful than idea A. However this does not mean
        idea B is completely true.
@@ -185,7 +200,7 @@ The following are additional strategies being used that are not presented in the
              + One example is to answer questions where the task is to answer which of 2 statements are nonsense.
                + Statement 1) After waiting barefoot in the lake Eric used his shirt to dry his feet.
                + Statement 2) After waiting barefoot in the lake Eric used his glasses to dry his feet.
-               + Clearly statement B does not make sense but if u do not have an accurate model of the world u
+               + Clearly statement B does not make sense but if you do not have an accurate model of the world u
                  will not be able to answer this question correctly. Siri, Google Now, and Watson are successful
                  artificial narrow intelligence but not artificial general intelligence because they do not have
                  accurate models of the world. [Video Source at 24:20](https://www.youtube.com/watch?v=NPtAIVieh4k)
@@ -209,13 +224,13 @@ earth was born about 4.6 billion years ago and that it took evolution about
 4.6 billion - 200,000 years to create the first homo sapiens. This shit takes
 time so if your frustrated go relax.
 
-And as stupid as it sounds remember that it is the journey u go on that makes
-everything worth it when u look back. If your happiness depends on reaching
+And as stupid as it sounds remember that it is the journey you go on that makes
+everything worth it when you look back. If your happiness depends on reaching
 any goal in this project your happiness will only be temporary. You have made
 the false assumption that your default state is not happiness because throughout
 ur life others have told i:
 
-Others: `U should feel successful only if u are the best`  
+Others: `U should feel successful only if you are the best`  
 But why can't it become `I should follow my curiosity to improve myself a little
 bit everyday`?
 
@@ -224,17 +239,17 @@ from a place of insecurity and fear of others while the latter comes from a plac
 of curiosity and love of urself and others.
 
 Here are some other examples of how your past experiences are pushing u
-towards being less like urself and how u can change it:
+towards being less like urself and how you can change it:
 
-Others: `U should feel successful if u listen to what I tell u and not question it`  
+Others: `U should feel successful if you listen to what I tell you and not question it`  
 Becomes: `I should be open-minded and think from 1st principles and do what I
 think is right`
 
-Others: `U should feel successful if u do the thing that will make u the most money`  
+Others: `U should feel successful if you do the thing that will make you the most money`  
 Becomes: `When I do not need the money I should do things that make me excited
 and that I want to see exist in reality over doing something just for the money`
 
-Others: `U should feel successful only if u are approved wildly`  
+Others: `U should feel successful only if you are approved wildly`  
 Becomes: `I should feel luckily if I am accepted by few deeply and I should
 help others improve themselves a little bit everyday`
 
@@ -243,9 +258,9 @@ In each of these examples we removed happiness being dependent on some kind of s
 a place of curiosity and love of urself and others instead of insecurity and fear of
 others.
 
-Sometimes life will hit u with a hammer. When it does take time to regain ur
+Sometimes life will hit you with a hammer. When it does take time to regain ur
 hope in humanity in any way u
-feel is right and take as much time as u need. When u get back up u will
+feel is right and take as much time as you need. When you get back up you will
 be a stronger version of urself and ready to fail even harder again.
 
 If your interested in becoming a researcher/developer, I would be grateful
@@ -254,7 +269,7 @@ for your collaboration as I cannot do this alone. To get started read
 **[setup development environment for Mac and Linux](#setup-development-environment-for-mac-and-linux)**.
 
 ## How to contribute
-1. e-mail quinnliu@vt.edu ur schedule of when ur free after 7pm-11pm EST any
+1. e-mail quinnliu@vt.edu your schedule of when your free after 7pm-11pm EST any
    day of the week for a 5 min. conversation to make sure our goals align. Also
    include a phone number :)
 
@@ -264,12 +279,12 @@ for your collaboration as I cannot do this alone. To get started read
    contribute to this repository effectively.
 
 ## Setup development environment for Mac and Linux
-1. Go to the top right of this page and hit the Fork button. Then clone ur forked
+1. Go to the top right of this page and hit the Fork button. Then clone your forked
    repository locally.
 
 2. Install [Python 3.5.2](https://www.python.org/) and
-   [pip](https://pip.pypa.io/en/stable/installing/). U have installed successfully
-   when u can:
+   [pip](https://pip.pypa.io/en/stable/installing/). you have installed successfully
+   when you can:
 
    ```
    $ python3 --version
@@ -298,7 +313,7 @@ After we understood the principles of flight we were able to build planes that
 are much faster and can carry more weight than birds. After we understand
 the human brain's computation principles we will be able to create intelligent
 machines much more intelligent than humans with unimaginable capabilities. At
-first it will not have any emotions like u and I. This will be a good thing
+first it will not have any emotions like you and I. This will be a good thing
 because it will force us to ask if it would be moral to create an super
 intelligent machine with emotions to help us. It may not necessarily be a
 good thing for the human race. For example, look at how humans treat
@@ -388,7 +403,7 @@ would be okay and safe to create a super intelligent emotional machine.
        from Vicarious.com
          - "*Imagine we are designing a system to distinguish faces from non-faces and we are just
              using 32 by 32 pixel images and 256 shades of grey.*" This is a very reduced version of
-             what ur visual brain is doing. "*Even with that reduction it is still
+             what your visual brain is doing. "*Even with that reduction it is still
              256^1024 different possible combinations you need to be able to distinguish
              between*". Because 32 by 32 with 256 different values is equivalent to the permutation
              (choose value between 0 and 256)(0-256)...32*32 more times.
@@ -415,7 +430,7 @@ would be okay and safe to create a super intelligent emotional machine.
      + 2008 PhD thesis [here](https://github.com/WalnutiQ/papers/blob/master/HowTheBrainMightWork.pdf)
        by Dileep George from Stanford University
          - Figure 1: ![alt text](https://raw.githubusercontent.com/WalnutiQ/wAlnut/develop/walnut/images/explanatory/translation_training_creates_scale_invariance.png)
-         - Notice how the scaling of "A" in (c) would be the exact same input as (b) if u translate the input
+         - Notice how the scaling of "A" in (c) would be the exact same input as (b) if you translate the input
            to the left by 1 pixel.
    - Not supportive:
    - Conclusion: Yes, specific enough to make learning feasible and general
@@ -491,7 +506,7 @@ would be okay and safe to create a super intelligent emotional machine.
 
 ## Code Outline
 
-If ur confused what a file/folder is for:
+If your confused what a file/folder is for:
 ```
 - walnut/
   - datasets/ = contains zipped datasets generated by https://github.com/WalnutiQ/time_series_data
@@ -500,13 +515,13 @@ If ur confused what a file/folder is for:
   - tests/ = unit tests for code in model folder
     - experiments/ = using the OO model for algorithm experiments
   - utils/
-- wAlnut_environment/ = folder only on ur local repo generated by virtualenv
+- wAlnut_environment/ = folder only on your local repo generated by virtualenv
                         containing libraries we are using
 - .gitignore = contains names of files/folders not to add to this repository
-               but keep in ur local wAlnut folder
+               but keep in your local wAlnut folder
 - .travis.yml = for running this code on Travis's servers to make sure all tests pass
 - LICENSE.txt = GNU General Public License version 3
-- README.md = the file ur reading right now
+- README.md = the file your reading right now
 - requirements.txt = list of python library versions we are using. These are installed
-                     in ur virtual environment during setup
+                     in your virtual environment during setup
 ```
