@@ -1,21 +1,12 @@
 # wAlnut
 
-*Think 1st principles*  
-[![Build Status](https://travis-ci.org/WalnutiQ/wAlnut.svg?branch=develop)](https://travis-ci.org/WalnutiQ/wAlnut)
+*Think 1st principles and remember an axiom is not reality and that the truth is constantly changing*  
 
 <b>UPDATE:</b> Development for this project has changed into a completely
 different goal because I realized <b>I was wrong about building artificial
-general intelligence(AGI) to help humanity</b> after considering the ideas by
+general intelligence(AGI) to help humanity</b> after considering
 [Elon Musk's points in the Future of Life Institute conversation](https://youtu.be/h0962biiZa4)
-and reading [Superintelligence by Nick Bostrom](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742).
-
-I think one of the many bugs in the human brain is to focus too much on the
-"how" and "what" and not on the "why". I believe it is more important to be
-scrupulous about the "why" like Nobel Laureate Einstein in researching the
-theory of general relativity instead of the "how" and "what" like Nobel Laureate
-Fritz Haber in researching the Haber-Bosch process that was originally used to
-feed the world but then later used by him to deploy the first large scale use of
-chemical weapons making him a [war criminal](http://chemicalweapons.cenmag.org/who-was-the-father-of-chemical-weapons/).
+and reading [Superintelligence by Nick Bostrom](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742). Here are my notes on [Superintelligence](https://github.com/WalnutiQ/wAlnut/issues/345).
 
 For the past five years it was so easy for me to have confirmation bias toward
 only the positive effects of AGI while a part of me avoided the question of
@@ -26,8 +17,8 @@ neural lace. The argument that convinced me I was wrong goes like this:
 
 1. Humans are the dominant species on Earth because of our intelligence.
 2. If we make another species (code based AGI) smarter than us then there
-   is no way for us to control it because it is more intelligent than all of
-   humanity combined.
+   is no way for us to control it to solve all our problems because it 
+   is more intelligent than all of humanity combined.
 3. There is a very high chance that it will use humans for purposes we do not
    want. Look at how we treat species that are less intelligent than us.
 4. We cannot stop the humans that are researching AGI so one solution is
@@ -37,7 +28,11 @@ If we define human intelligence as one's ability to predict the future and act
 on it in a way that is beneficial to oneself and others, one way to increase
 human intelligence would be to build a [neural lace](http://waitbutwhy.com/2017/04/neuralink.html)
 privately and help the mentally disabled first. If your interested in working
-on this together e-mail me at quinnliu@vt.edu :)
+on this together e-mail me your resume at quinnliu@vt.edu :)
+
+~ Q
+
+<b>Below is the old README.md for building AGI that I no longer believe is correct</b>
 
 #### Table of Contents
 - **[Why and Goals](#why-and-goals)**
