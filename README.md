@@ -8,7 +8,7 @@
 - **[What](#what)**
 
 ## Short History of this Repository
-<b>TLDR:<b> I was really wrong about how to build AGI 2 times since 2011 and now I'm trying to build a private neural lace.
+<b>TLDR:</b> I was really wrong about how to build AGI 2 times since 2011 and now I'm trying to build a private neural lace.
 
 In 2011 I watched [Jeff Hawkin's talk](https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing) on 
 artificialgeneral intelligence(AGI) and I slowly became obssessed with building AGI. In 2012 this repo it began as 
@@ -22,7 +22,7 @@ intelligence faster than code based intelligence.
 
 ## Why and Goals
 
-<b>TLDR:<b> Building ANI is fine but building AGI privately or pubicly is very bad for humanity because of simple reasons. 
+<b>TLDR:</b> Building ANI is fine but building AGI privately or pubicly is very bad for humanity because of simple reasons. 
 Instead we need to increase human-computer intelligence with a privately built neural lace.  E-mail me your resume at 
 quinnliu@vt.edu if you want to help :)
 
