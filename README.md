@@ -15,7 +15,7 @@ artificialgeneral intelligence(AGI) and I slowly became obssessed with building 
 a full Java implementation of [Numenta's cortial learning algorithm v2](https://github.com/WalnutiQ/wAlnut/tree/4341e25d1fbd33a75708c4d428e3afc75f3fefe7). In 2016 I read Dileep George's(previously 
 co-founder of Numenta that left to start Vicarious) PhD thesis and I realized Dileep had a better approach to building AGI and 
 this repo changed into a [Python implementation of the data structures and algorithms](https://github.com/WalnutiQ/wAlnut/tree/03093e1944bf1ff25a1c2cac672d5933f93fba78) outlined in Dileep George's PhD thesis 
-[*How the Brain Might Work: A Hierarchical and Temporal Model for Learning and Recognition*](https://github.com/WalnutiQ/papers/blob/master/HowTheBrainMightWork.pdf). Then in 2017 I came across [Elon Musk's perspective about AGI in the Future of Life Institute conversation](https://youtu.be/h0962biiZa4)
+[*How the Brain Might Work: A Hierarchical and Temporal Model for Learning and Recognition*](https://github.com/WalnutiQ/papers/blob/master/Dileep_George_PGM/HowTheBrainMightWork.pdf). Then in 2017 I came across [Elon Musk's perspective about AGI in the Future of Life Institute conversation](https://youtu.be/h0962biiZa4)
 and read [Superintelligence by Nick Bostrom](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742) with my notes [here](https://github.com/WalnutiQ/wAlnut/issues/345) and realized I was completely wrong 
 about building AGI to help humanity in the first place. Now this repo's goal is to research how to increase human-code 
 intelligence faster than code based intelligence. 
