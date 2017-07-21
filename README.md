@@ -1,38 +1,65 @@
 # wAlnut
 
-*Think 1st principles and remember an axiom is not reality and that the truth is constantly changing*  
+*Think 1st principles and remember an axiom is not reality and that the "truth" is constantly changing*  
 
-<b>UPDATE:</b> Development for this project has changed into a completely
-different goal because I realized <b>I was wrong about building artificial
-general intelligence(AGI) to help humanity</b> after considering
-[Elon Musk's points in the Future of Life Institute conversation](https://youtu.be/h0962biiZa4)
-and reading [Superintelligence by Nick Bostrom](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742). Here are my notes on [Superintelligence](https://github.com/WalnutiQ/wAlnut/issues/345).
+#### Table of Contents
+- **[Short History of this Repository](#short-history-of-this-repository)**
+- **[How](#how)**
+- **[What](#what)**
 
-For the past five years it was so easy for me to have confirmation bias toward
-only the positive effects of AGI while a part of me avoided the question of
-`how do you control something that is smarter than all of humanity combined?`.
-The answer is you can not. I now believe AGI should not be built privately
-or publicly and instead one solution is to increase human intelligence with a
-neural lace. The argument that convinced me I was wrong goes like this:
+## Short History of this Repository
+<b>TLDR:<b> I was really wrong about how to build AGI 2 times since 2011 and now I'm trying to build a private neural lace.
 
-1. Humans are the dominant species on Earth because of our intelligence.
-2. If we make another species (code based AGI) smarter than us then there
-   is no way for us to control it to solve all our problems because it 
-   is more intelligent than all of humanity combined.
-3. There is a very high chance that it will use humans for purposes we do not
-   want. Look at how we treat species that are less intelligent than us.
-4. We cannot stop the humans that are researching AGI so one solution is
-   to increase human intelligence.
+In 2011 I watched [Jeff Hawkin's talk](https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing) on 
+artificialgeneral intelligence(AGI) and I slowly became obssessed with building AGI. In 2012 this repo it began as 
+a full Java implementation of [Numenta's cortial learning algorithm v2](https://github.com/WalnutiQ/wAlnut/tree/4341e25d1fbd33a75708c4d428e3afc75f3fefe7). In 2016 I read Dileep George's(previously 
+co-founder of Numenta that left to start Vicarious) PhD thesis and I realized Dileep had a better approach to building AGI and 
+this repo changed into a [Python implementation of the data structures and algorithms](https://github.com/WalnutiQ/wAlnut/tree/03093e1944bf1ff25a1c2cac672d5933f93fba78) outlined in Dileep George's PhD thesis 
+[*How the Brain Might Work: A Hierarchical and Temporal Model for Learning and Recognition*](https://github.com/WalnutiQ/papers/blob/master/HowTheBrainMightWork.pdf). Then in 2017 I came across [Elon Musk's perspective about AGI in the Future of Life Institute conversation](https://youtu.be/h0962biiZa4)
+and read [Superintelligence by Nick Bostrom](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742) with my notes [here](https://github.com/WalnutiQ/wAlnut/issues/345) and realized I was completely wrong 
+about building AGI to help humanity in the first place. Now this repo's goal is to research how to increase human-code 
+intelligence faster than code based intelligence. 
 
-If we define human intelligence as one's ability to predict the future and act
-on it in a way that is beneficial to oneself and others, one way to increase
-human intelligence would be to build a [neural lace](http://waitbutwhy.com/2017/04/neuralink.html)
-privately and help the mentally disabled first. If your interested in working
-on this together e-mail me your resume at quinnliu@vt.edu :)
+## Why and Goals
+
+<b>TLDR:<b> Building ANI is fine but building AGI privately or pubicly is very bad for humanity because of simple reasons. 
+Instead we need to increase human-computer intelligence with a privately built neural lace.  E-mail me your resume at 
+quinnliu@vt.edu if you want to help :)
+
+Since 2011 it was so easy for me to have confirmation bias toward only the positive effects of building AGI while a part of me 
+avoided the question of `how do you control something that is smarter than all of humanity combined?`. The answer is you can 
+not. I now believe AGI should not be built privately or publicly and instead one solution is to increase human intelligence 
+with a privately built neural lace like [Neuralink](https://neuralink.com/) which you can read about [here](http://waitbutwhy.com/2017/04/neuralink.html). 
+
+Today, many groups are trying to build AGI to help humanity. However, I believe strong AI should not be built because:
+
+1. Humans are the domaint species on Earth because of our intelligence.
+2. If we make another species (code based AGI) smarter than us then there is no way for us to control it 
+   because it you can't control something that is more intelligent than all of humanity combined.
+3. There is a very high chance that it will use humans for purposes we do not want. Just look at how we treat species 
+   that are less intelligent than us.
+4. We cannot stop the humans that are researching AGI so one solution is to increase human intelligence.
+
+Now the question becomes `How do you increase human intelligence by orders of magnitude safely and faster than code based AGI?`. In order to answer this question we have to agree on a simple and clear definition of intelligence. 
+
+We define intelligence in 2 parts. Intelligence is the <b>ability to predict the future</b> and <b>act on it in a way that is
+beneficial to itself and others</b>. This means we can increase human intelligence in multiple ways. 
+
+1. Increase breath, range, & accuracy of future predictions.  
+2. Increase speed at which you can act on the world.
+3. Increase ability to imagine beneficial situations for yourself and other intelligent agents.
+
+If your interested in working on this together e-mail me your resume at quinnliu@vt.edu :)
 
 ~ Q
 
-<b>Below is the old README.md for building AGI that I no longer believe is correct</b>
+## How
+To be updated...
+
+## What
+To be updated...
+
+<b>NOTE: Below is the old README.md for building Dileep's AGI that I no longer believe is correct</b>
 
 #### Table of Contents
 - **[Why and Goals](#why-and-goals)**
@@ -67,9 +94,6 @@ learning algorithms to understand the key principles of intelligence and
 discover new principles of intelligence that evolution missed. This repo is
 currently an object oriented Python implementation of the computational
 framework outlined in Dileep George's PhD thesis [*How the Brain Might Work: A Hierarchical and Temporal Model for Learning and Recognition*](https://github.com/WalnutiQ/papers/blob/master/HowTheBrainMightWork.pdf)
-
-Lastly we believe Dileep George of Vicarious.com deserves a Nobel Peace Prize
-in Neuroscience for his PhD thesis. Nobel team get on this!
 
 ### Road Map for next 15-40 years
 1. Solve reCAPTCHA with video evidence and code available in this repo.
