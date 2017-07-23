@@ -4,6 +4,7 @@
 
 #### Table of Contents
 - **[Short History of this Repository](#short-history-of-this-repository)**
+- **[Why and Goals](#why-and-goals)**
 - **[How](#how)**
 - **[What](#what)**
 
