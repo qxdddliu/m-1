@@ -11,8 +11,8 @@
 <b>TLDR:</b> I was really wrong about how to build AGI 2 times since 2011 and now I'm trying to build a private neural lace.
 
 In 2011 I watched [Jeff Hawkin's talk](https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing) on 
-artificialgeneral intelligence(AGI) and I slowly became obssessed with building AGI. In 2012 this repo began as 
-a full Java implementation of [Numenta's cortial learning algorithm v2](https://github.com/WalnutiQ/wAlnut/tree/4341e25d1fbd33a75708c4d428e3afc75f3fefe7). In 2016 I read Dileep George's(previously 
+artificial general intelligence(AGI) and I slowly became obssessed with building AGI. In 2012 this repo began as 
+a full Java implementation of [Numenta's cortial learning algorithm v2](https://github.com/WalnutiQ/wAlnut/tree/4341e25d1fbd33a75708c4d428e3afc75f3fefe7). However, I started to doubt the long-term potential of the CLA after my experimental results didn't turn out as expected and in 2016 I read Dileep George's(previously 
 co-founder of Numenta that left to start Vicarious) PhD thesis and I realized Dileep had a better approach to building AGI and 
 this repo changed into a [Python implementation of the data structures and algorithms](https://github.com/WalnutiQ/wAlnut/tree/03093e1944bf1ff25a1c2cac672d5933f93fba78) outlined in Dileep George's PhD thesis 
 [*How the Brain Might Work: A Hierarchical and Temporal Model for Learning and Recognition*](https://github.com/WalnutiQ/papers/blob/master/Dileep_George_PGM/HowTheBrainMightWork.pdf). Then in 2017 I came across [Elon Musk's perspective about AGI in the Future of Life Institute conversation](https://youtu.be/h0962biiZa4)
