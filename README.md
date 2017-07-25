@@ -30,7 +30,7 @@ avoided the question of `how do you control something that is smarter than all o
 not. I now believe AGI should not be built privately or publicly and instead one solution is to increase human intelligence 
 with a privately built neural lace like [Neuralink](https://neuralink.com/) which you can read about [here](http://waitbutwhy.com/2017/04/neuralink.html). 
 
-Today, many groups are trying to build AGI to help humanity. However, I believe strong AI should not be built because:
+Today, many groups are trying to build AGI to help humanity. However, I believe AGI should not be built because:
 
 1. Humans are the domaint species on Earth because of our intelligence.
 2. If we make another species (code based AGI) smarter than us then there is no way for us to control it 
