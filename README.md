@@ -23,9 +23,7 @@ intelligence faster than code based intelligence.
 
 ## Why and Goals
 
-<b>TLDR:</b> Building ANI is fine but building AGI privately or pubicly is very bad for humanity because of simple reasons. 
-Instead we need to increase human-computer intelligence with a privately built neural lace.  E-mail me your resume at 
-quinnliu@vt.edu if you want to help :)
+<b>TLDR:</b> Building artificial narrow intelligence(ANI) is fine but building AGI privately or pubicly is very bad for humanity because of simple reasons. Instead we need to increase human-computer intelligence with a privately built neural lace.  E-mail me your resume at quinnliu@vt.edu if you want to help :)
 
 Since 2011 it was so easy for me to have confirmation bias toward only the positive effects of building AGI while a part of me 
 avoided the question of `how do you control something that is smarter than all of humanity combined?`. The answer is you can 
