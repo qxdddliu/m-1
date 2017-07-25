@@ -9,7 +9,7 @@
 - **[What](#what)**
 
 ## Short History of this Repository
-<b>TLDR:</b> I was really wrong about how to build AGI 2 times since 2011 and now I'm trying to build a private neural lace.
+<b>TLDR:</b> I was really wrong about how to build AGI 2 times since 2011 and now I'm trying to build a private neural lace until I find out I'm wrong about this too. 
 
 In 2011 I watched [Jeff Hawkin's talk](https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing) on 
 artificial general intelligence(AGI) and I slowly became obsessed with building AGI. In 2012 this repo began as 
