@@ -3,10 +3,10 @@
 *Think 1st principles and remember an axiom is not reality and that the "truth" is constantly changing*  
 
 #### Table of Contents
-- **[Short History of this Repository](#short-history-of-this-repository)**
+- **[History of this Repository](#short-history-of-this-repository)**
 - **[Why and Goals](#why-and-goals)**
 
-## Short History of this Repository
+## History of this Repository
 <b>TLDR:</b> I was wrong about how to build AGI 2 times since 2011 and now I'm learning how to increase human intelligence faster than code based intelligence. 
 
 In 2011 I watched [Jeff Hawkin's talk](https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing) on 
