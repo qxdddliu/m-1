@@ -5,8 +5,6 @@
 #### Table of Contents
 - **[Short History of this Repository](#short-history-of-this-repository)**
 - **[Why and Goals](#why-and-goals)**
-- **[How](#how)**
-- **[What](#what)**
 
 ## Short History of this Repository
 <b>TLDR:</b> I was really wrong about how to build AGI 2 times since 2011 and now I'm trying to build a private neural lace until I find out I'm wrong about this too. 
@@ -51,9 +49,3 @@ beneficial to itself and others</b>. This means we can increase human intelligen
 If your interested in working on this together e-mail me your resume at quinnliu@vt.edu :)
 
 ~ Q
-
-## How
-To be updated...
-
-## What
-To be updated...
