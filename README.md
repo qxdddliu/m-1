@@ -7,11 +7,11 @@
 - **[Why and Goals](#why-and-goals)**
 
 ## Short History of this Repository
-- <b>TLDR:</b> I was wrong about how to build AGI 2 times since 2011 and now I'm learning how to increase human intelligence faster than code based intelligence. 
+<b>TLDR:</b> I was wrong about how to build AGI 2 times since 2011 and now I'm learning how to increase human intelligence faster than code based intelligence. 
 
-- In 2011 I watched [Jeff Hawkin's talk](https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing) on 
+In 2011 I watched [Jeff Hawkin's talk](https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing) on 
 artificial general intelligence(AGI) and I became obsessed with building AGI to help humanity. I taught myself how to code and built 
-a OO Java implementation of [Numenta's cortial learning algorithm(CLA) v2](https://github.com/WalnutiQ/wAlnut/tree/4341e25d1fbd33a75708c4d428e3afc75f3fefe7). After running unsuccessful vision experiments with the CLA v2 I began to think there must be a better approach to building AGI. I found a better approach in Dileep George's [PhD thesis](https://github.com/WalnutiQ/papers/blob/master/Dileep_George_PGM/HowTheBrainMightWork.pdf). While researching alternative approaches to AGI I came across [Elon Musk's perspective on AGI in the Future of Life Institute conversation](https://youtu.be/h0962biiZa4)
+an OO Java implementation of [Numenta's cortial learning algorithm(CLA) v2](https://github.com/WalnutiQ/wAlnut/tree/MARK_II). After running unsuccessful vision experiments using the CLA v2 I began to think there must be a better approach to building AGI. I found a better approach in Dileep George's [PhD thesis](https://github.com/WalnutiQ/papers/blob/master/Dileep_George_PGM/HowTheBrainMightWork.pdf) and the project changed into an [OO Python implementation of his PhD thesis](https://github.com/WalnutiQ/wAlnut/tree/MARK_III). While researching other approaches to AGI I came across [Elon Musk's perspective on AGI](https://youtu.be/h0962biiZa4)
 and read [Superintelligence by Nick Bostrom](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742) with my notes [here](https://github.com/WalnutiQ/wAlnut/issues/345) and realized I was completely wrong 
 about building AGI to help humanity in the first place. Now the goal is to research how to increase human 
 intelligence faster than code based intelligence. 
