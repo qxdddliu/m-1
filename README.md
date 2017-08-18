@@ -32,9 +32,15 @@ Today, many groups are trying to build AGI to help humanity. However, I believe 
    because it you can't control something that is more intelligent than all of humanity combined.
 3. There is a very high chance that it will use humans for purposes we do not want. Just look at how we treat species 
    that are less intelligent than us.
-4. We cannot stop the humans that are researching AGI so one solution is to increase human intelligence. Another solution is time travel but TT is harder. Another solution is I don't know. 
+4. We cannot stop the humans that are researching AGI so now the question is how do we solve the AGI control problem?
 
-Now the question becomes `How do you increase human intelligence by orders of magnitude safely and faster than code based AGI?`. In order to answer this question we have to agree on a simple and clear definition of intelligence. 
+`Q: How do we solve the AGI control problem?`  
+1. Use checklist of 100+ mental models.
+2. Increase human intelligence faster than AGI.  
+3. Figure out how to backwards time travel.  
+4. Something I haven't or can't even imagine.
+
+A1 & A2 are the easiest to answer next so now the question becomes `How do you increase human intelligence by orders of magnitude safely and faster than code based AGI?`. In order to answer this question we have to agree on a simple and clear definition of intelligence. 
 
 We define intelligence in 2 parts. Intelligence is the <b>ability to predict the future</b> and <b>act on it in a way that is
 beneficial to itself and others</b>. This means we can increase human intelligence in multiple ways. 
