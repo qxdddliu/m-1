@@ -18,12 +18,14 @@ intelligence faster than code based intelligence.
 
 ## Why and Goals
 
-<b>TLDR:</b> Building artificial narrow intelligence(ANI) is fine but building AGI privately or pubicly is very bad for humanity because of simple reasons. Instead we need to increase human-computer intelligence with a privately built neural lace.  E-mail me your resume at quinnliu@vt.edu if you want to help :)
+<b>TLDR:</b> Building artificial narrow intelligence(ANI) is fine but building AGI privately or pubicly is very bad for humanity because of simple reasons. Instead we need to increase human intelligence starting with a privately built neural lace.
 
 Since 2011 it was so easy for me to have confirmation bias toward only the positive effects of building AGI while a part of me 
-avoided the question of `how do you control something that is smarter than all of humanity combined?`. The answer is you can 
-not. I now believe AGI should not be built privately or publicly and instead one solution is to increase human intelligence 
-with a privately built neural lace like [Neuralink](https://neuralink.com/) which you can read about [here](http://waitbutwhy.com/2017/04/neuralink.html). 
+avoided the question:
+  
+`Q0: how do you control something that is smarter than all of humanity combined?`
+
+The answer is you can not. I now believe AGI should not be built privately or publicly and instead one solution is to increase human intelligence with a privately built neural lace like [Neuralink](https://neuralink.com/) which you can read about [here](http://waitbutwhy.com/2017/04/neuralink.html). 
 
 Today, many groups are trying to build AGI to help humanity. However, I believe AGI should not be built because:
 
@@ -32,17 +34,19 @@ Today, many groups are trying to build AGI to help humanity. However, I believe 
    because it you can't control something that is more intelligent than all of humanity combined.
 3. There is a very high chance that it will use humans for purposes we do not want. Just look at how we treat species 
    that are less intelligent than us.
-4. We cannot stop the humans that are researching AGI so now the question is how do we solve the AGI control problem?
+4. We cannot stop the humans that are researching AGI so now the question is:
 
-`Q: How do we solve the AGI control problem?`  
+`Q1: How do we solve the AGI control problem?`  
 1. Use checklist of 100+ mental models.
 2. Increase human intelligence faster than AGI.  
 3. Figure out how to backwards time travel.  
 4. Something I haven't or can't even imagine.
 
-1 & 2 are the easiest to answer next so now the question becomes `How do you increase human intelligence by orders of magnitude safely and faster than code based AGI?`. In order to answer this question we have to agree on a simple and clear definition of intelligence. 
+1 & 2 are the easiest to answer next so now the question becomes:
+  
+`Q2: How do you increase human intelligence by orders of magnitude safely and faster than code based AGI?`. 
 
-We define intelligence in 2 parts. Intelligence is the <b>ability to predict the future</b> and <b>act on it in a way that is
+In order to answer this question we have to agree on a simple and clear definition of intelligence. We define intelligence in 2 parts. Intelligence is the <b>ability to predict the future</b> and <b>act on it in a way that is
 beneficial to itself and others</b>. This means we can increase human intelligence in multiple ways. 
 
 1. Increase breath, range, & accuracy of future predictions.  
