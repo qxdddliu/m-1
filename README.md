@@ -31,7 +31,7 @@ Today, many groups are trying to build AGI to help humanity. However, I believe 
 
 1. Humans are the domaint species on Earth because of our intelligence.
 2. If we make another species (code based AGI) smarter than us then there is no way for us to control it 
-   because it you can't control something that is more intelligent than all of humanity combined.
+   because you can't control something that is more intelligent than all of humanity combined.
 3. There is a very high chance that it will use humans for purposes we do not want. Just look at how we treat species 
    that are less intelligent than us.
 4. We cannot stop the humans that are researching AGI so now the question is:
@@ -42,7 +42,7 @@ Today, many groups are trying to build AGI to help humanity. However, I believe 
 3. Figure out how to backwards time travel.  
 4. Something I haven't or can't even imagine.
 
-1 & 2 are the easiest to answer next so now the question becomes:
+1 & 2 are the answers with the least number of assumptions so now the question becomes:
   
 `Q2: How do you increase human intelligence by orders of magnitude safely and faster than code based AGI?`. 
 
@@ -51,7 +51,7 @@ beneficial to itself and others</b>. This means we can increase human intelligen
 
 1. Increase breath, range, & accuracy of future predictions.  
 2. Increase speed at which you can act on the world.
-3. Increase ability to imagine beneficial situations for yourself and other intelligent agents.
+3. Increase ability to imagine beneficial situations for yourself and the majority of other intelligent agents.
 
 If your interested in working on this together e-mail me your resume at quinnliu@vt.edu :)
 
