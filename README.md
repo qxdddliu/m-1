@@ -7,7 +7,7 @@
 - **[Why and Goals](#why-and-goals)**
 
 ## History of this Repository
-<b>TLDR:</b> I was wrong about how to build AGI 2 times since 2011 and now I'm learning how to increase human intelligence faster than code based intelligence. 
+<b>TLDR:</b> I was wrong about how to build AGI 2 times since 2011 and now I'm learning how to increase human intelligence faster than code based intelligence unless I learn this is a bad idea haha
 
 In 2011 I watched [Jeff Hawkin's talk](https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing) on 
 artificial general intelligence(AGI) and I became obsessed with building AGI to help humanity. I taught myself how to code and built 
@@ -23,7 +23,7 @@ intelligence faster than code based intelligence.
 Since 2011 it was so easy for me to have confirmation bias toward only the positive effects of building AGI while a part of me 
 avoided the question:
   
-`Q0: how do you control something that is smarter than all of humanity combined?`
+`Q0: How do you control something that is smarter than all of humanity combined?`
 
 The answer is you can not. I now believe AGI should not be built privately or publicly and instead one solution is to increase human intelligence with a privately built neural lace like [Neuralink](https://neuralink.com/) which you can read about [here](http://waitbutwhy.com/2017/04/neuralink.html). 
 
