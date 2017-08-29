@@ -46,13 +46,12 @@ Today, many groups are trying to build AGI to help humanity. However, I believe 
   
 `Q2: How do you increase human intelligence by orders of magnitude safely and faster than code based AGI?`. 
 
-In order to answer this question we have to agree on a simple and clear definition of intelligence. We define intelligence in 2 parts. Intelligence is the <b>ability to predict the future</b> and <b>act on it in a way that is
-beneficial to itself and others</b>. This means we can increase human intelligence in multiple ways. 
+In order to answer this question we have to agree on a simple and clear definition of intelligence. We define intelligence in 2 parts. Intelligence is the <b>ability to predict the future</b> and <b>act on your prediction to benefit yourself & others</b>. This means we can increase human intelligence in multiple ways. 
 
 1. Increase breath, range, & accuracy of future predictions.  
 2. Increase speed at which you can act on the world.
 3. Increase ability to imagine beneficial situations for yourself and the majority of other intelligent agents.
 
-If your interested in working on this together e-mail me your resume at quinnliu@vt.edu :)
+If your interested in working on this together e-mail me your CV at quinnliu@vt.edu :)
 
 ~ Q
