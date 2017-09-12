@@ -54,4 +54,4 @@ In order to answer this question we have to agree on a simple and clear definiti
 
 If your interested in working on this together e-mail me your CV at quinnliu@vt.edu :)
 
-~ Q
+~ Q39
