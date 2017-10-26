@@ -47,17 +47,14 @@ Today, many groups are trying to build AGI to help humanity. However, I believe 
 
 Using Occam's razor 3 & 4 are the answers with the least number of assumptions so now the questions becomes `Q2` & `Q3`:
   
-`Q2: How do u increase human intelligence by orders of magnitude safely and faster than code based AGI?`. 
+`Q2: How do u create a safe neural lace for anyone who wants one?`.
 
-In order to answer this question we have to agree on a simple and clear definition of intelligence. We define intelligence in 2 parts. Intelligence is the <b>ability to predict the future</b> and <b>act on ur prediction to benefit urself & others</b>. This means we can increase human intelligence in multiple ways. 
-
-1. Increase breath, range, & accuracy of future predictions.  
-2. Increase speed at which u can act on the world.
-3. Increase ability to imagine beneficial situations for urself and the majority of other intelligent agents.
+1. First use it to help the mentally disabled. 
+2. I'm not sure giving a neural lace to a mentally normal person is healthy as our lack of full understanding of the brain may cause unexpected insanity in the wearer.
 
 `Q3: How do u backwards time travel?`
 
-thinking...
+Imagining...
 
 If ur interested in thinking about this together e-mail me ur CV at emn1over12@gmail.com :)
 
