@@ -39,13 +39,17 @@ Today, many groups are trying to build AGI to help humanity. However, I believe 
 4. We cannot stop the humans that are researching AGI so now the question is:
 
 `Q1: How do we solve the AGI control problem?`  
-1. Use checklist of 101 mental models.
-2. Increase human intelligence faster than AGI. I don't think this is possible. 
-3. Give everyone who wants one a neural lace. Not sure if this is healthy for any human as it might cause insanity since we don't fully understand the brain. 
-4. Figure out how to backwards time travel ethically. Specifically, how to travel to another universe(`U2`) that is the same as ours(`U1`) at a previous state in time. 
-5. Something I haven't or can't even imagine. 
+Using a checklist of 101 mental models I've brainstormed the following possible answers:
 
-Using Occam's razor 3 & 4 are the answers with the least number of assumptions so now the questions becomes `Q2` & `Q3`:
+1. Increase human intelligence faster than AGI. 
+   - `Problem:` AGI will not be limited by slow biological processes so I don't think this is possible in the long-term. 
+2. Give everyone who wants one a neural lace. 
+   - `Problem:` Not sure if this is healthy for any human as it might cause insanity since we don't fully understand the brain. 
+3. Figure out how to backwards time travel ethically.
+   - `Problem:` None yet.
+4. Something I haven't or can't even imagine. 
+
+2 & 3 are the answers with the least number of assumptions so now the questions becomes `Q2` & `Q3`:
   
 `Q2: How do u create a safe neural lace for anyone who wants one?`.
 
