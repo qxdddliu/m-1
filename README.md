@@ -58,8 +58,8 @@ Using a checklist of 101 mental models I've brainstormed the following possible 
 
 `Q3: How do u backwards time travel?`
 
-Imagining...
+Imagining... at [smith_hunter](https://github.com/quinnliu/smith_hunter).
 
 If ur interested in thinking about this together e-mail me ur CV at emn1over12@gmail.com :)
 
-~ Q51 Liu
+~ Q56
