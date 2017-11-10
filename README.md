@@ -7,16 +7,16 @@
 - **[Why and Goals](#why-and-goals)**
 
 ## History of this Repository
-<b>TLDR:</b> I was wrong about how to build AGI 2 times since 2011 and now I'm learning how to increase human intelligence faster than code based intelligence unless I learn this is a bad idea haha
+<b>TLDR:</b> I was wrong about how to build AGI 2 times since 2011 and now I'm learning how to increase human intelligence faster than code based intelligence unless I learn this is a bad idea haha.
 
 In 2011 I watched [Jeff Hawkin's talk](https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing) on 
 artificial general intelligence(AGI) and I became obsessed with building AGI to help humanity. I taught myself how to code and built 
 an OO Java implementation of [Numenta's cortial learning algorithm(CLA) v2](https://github.com/WalnutiQ/wAlnut/tree/MARK_II). After running unsuccessful vision experiments using the CLA v2 I began to think there must be a better approach to building AGI. I found a better approach in Dileep George's [PhD thesis](https://github.com/WalnutiQ/papers/blob/master/Dileep_George_PGM/HowTheBrainMightWork.pdf) and the project changed into an [OO Python implementation of his PhD thesis](https://github.com/WalnutiQ/wAlnut/tree/MARK_III). While researching other approaches to AGI I came across [Elon Musk's perspective on AGI](https://youtu.be/h0962biiZa4)
 and read [Superintelligence by Nick Bostrom](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742) with my notes [here](https://github.com/WalnutiQ/wAlnut/issues/345) and realized I was completely wrong 
 about building AGI to help humanity in the first place. The goal changed to researching how to increase human 
-intelligence faster than code based intelligence. The conclusion I reached is since AGI will not be limited by slow biological processes I don't think it's possible in the long-term. Now I'm using 101 mental models to brainstorm alternative solutions to the AGI problem. The only ideas so far r build a neural lace or backwards time travel into another universe. Extremely open to other ideas. 
+intelligence faster than code based intelligence. The conclusion I reached is since AGI will not be limited by slow biological processes I don't think it's possible in the long-term. Now I'm using 101 mental models to brainstorm alternative solutions to the AGI problem. The only ideas so far r build a neural lace (which I'm not confident is a complete solution) and backwards time travel into another universe (which is really hard). Extremely open to other ideas. 
 
-~ Q56
+~ Q59
 
 ## Why and Goals
 
@@ -62,4 +62,4 @@ Imagining at [smith_hunter](https://github.com/quinnliu/smith_hunter).
 
 If ur interested in thinking about this together e-mail me ur CV at emn1over12@gmail.com :)
 
-~ Q56
+~ Q59
