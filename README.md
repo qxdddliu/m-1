@@ -1,6 +1,6 @@
 # wAlnut
 
-*Think 1st principles and remember an axiom is not reality and that the "truth" is constantly changing*  
+*Think 1st principles*  
 
 #### Table of Contents
 - **[History of this Repository](#short-history-of-this-repository)**
