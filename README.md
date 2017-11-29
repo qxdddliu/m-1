@@ -14,7 +14,7 @@ an OO Java implementation of [Numenta's cortial learning algorithm(CLA) v2](http
 and read [Superintelligence by Nick Bostrom](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742) with my notes [here](https://github.com/WalnutiQ/wAlnut/issues/345) and realized I was completely wrong about building AGI to help humanity in the first place. The goal changed to researching how to increase human 
 intelligence faster than code based intelligence. The conclusion I reached is since AGI will not be limited by slow biological processes it isn't possible for human intelligence to increase faster than code based intelligence in the long-term. Now I'm using 101 mental models to brainstorm alternative solutions to the AGI problem. The only ideas so far r build a neural lace (which I'm not confident is a complete solution) and backwards time travel into another universe (which is really hard). Extremely open to other ideas. 
 
-~ Q59
+~ Q64
 
 ## Why and Goals
 Since 2011 it was so easy for me to have confirmation bias toward only the positive effects of building AGI while a part of me avoided the question:
@@ -56,4 +56,4 @@ Imagining at [smith_hunter](https://github.com/quinnliu/smith_hunter).
 
 If ur interested in thinking about this together e-mail me ur CV at emn1over12@gmail.com :)
 
-~ Q59
+~ Q64
