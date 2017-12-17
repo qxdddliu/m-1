@@ -52,7 +52,7 @@ Using a checklist of 101 mental models I've brainstormed the following possible 
 
 `Q3: How do u backwards time travel?`
 
-Imagining at [infinity2o.com](http://infinity2o.com).
+Easier to imagine after u have a successful neural lace that doesn't make u insane.
 
 If ur interested in thinking about this together e-mail me ur CV at emn1over12@gmail.com :)
 
