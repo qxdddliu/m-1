@@ -14,7 +14,7 @@ an OO Java implementation of [Numenta's cortical learning algorithm(CLA) v2](htt
 and read [Superintelligence by Nick Bostrom](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742) with my notes [here](https://github.com/WalnutiQ/wAlnut/issues/345) and realized I was completely wrong about building AGI to help humanity in the first place. Then the goal changed to researching how to increase human 
 intelligence faster than code based intelligence. Since then, the idea I've reached is since AGI will not be limited by slow biological processes it isn't possible for human intelligence to increase faster than code based intelligence in the long-term. Now I'm using 101 mental models to brainstorm alternative solutions to the AGI problem. The only ideas so far r privately build a neural lace (which I'm not confident is a complete solution) and privately research the best cyber security for people with neural lace. Extremely open to other ideas. If ur interested in thinking about this together e-mail me ur CV at emn1over12@gmail.com :)
 
-~ Q84
+~ Q Liu
 
 ## Why and Goals
 Between 2011 to 2016 I was so focused on how to build AGI it was so easy for me to have confirmation bias toward only the potential positive effects of building AGI while a part of me avoided the question:
@@ -57,4 +57,4 @@ Using a checklist of 101 mental models I've brainstormed the following possible 
 
 1. Non-Answer: In all other cases to truly understand an thing just rebuild a better version of it. However, in this case that means building an AGI. 
 
-~ Q84
+~ Q Liu
