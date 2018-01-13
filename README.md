@@ -9,12 +9,11 @@
 ## History of this Repository
 
 In 2011 I watched [Jeff Hawkin's talk](https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing) on 
-artificial general intelligence(AGI) and I became obsessed with building AGI to help humanity. I taught myself how to code and built 
-an OO Java implementation of [Numenta's cortical learning algorithm(CLA) v2](https://github.com/WalnutiQ/wAlnut/tree/MARK_II). After running unsuccessful vision experiments using the CLA v2 I began to think there must be a better approach to building AGI. I found a better approach in Dileep George's [PhD thesis](https://github.com/WalnutiQ/papers/blob/master/Dileep_George_PGM/HowTheBrainMightWork.pdf) and the project changed into an [OO Python implementation of his PhD thesis](https://github.com/WalnutiQ/wAlnut/tree/MARK_III). While researching other approaches to AGI I came across [Elon Musk's perspective on AGI](https://youtu.be/h0962biiZa4)
+artificial general intelligence(AGI) and I became obsessed with building AGI to help humanity. I taught myself how to code and built an OO Java implementation of [Numenta's cortical learning algorithm(CLA) v2](https://github.com/WalnutiQ/wAlnut/tree/MARK_II). After running unsuccessful vision experiments using the CLA v2 I began to think there must be a better approach to building AGI. I found a better approach in Dileep George's [PhD thesis](https://github.com/WalnutiQ/papers/blob/master/Dileep_George_PGM/HowTheBrainMightWork.pdf) and the project changed into an [OO Python implementation of his PhD thesis](https://github.com/WalnutiQ/wAlnut/tree/MARK_III). While researching other approaches to AGI I came across [Elon Musk's perspective on AGI](https://youtu.be/h0962biiZa4)
 and read [Superintelligence by Nick Bostrom](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742) with my notes [here](https://github.com/WalnutiQ/wAlnut/issues/345) and realized I was completely wrong about building AGI to help humanity in the first place. Then the goal changed to researching how to increase human 
-intelligence faster than code based intelligence. Since then, the idea I've reached is since AGI will not be limited by slow biological processes it isn't possible for human intelligence to increase faster than code based intelligence in the long-term. Now I'm using 101 mental models to brainstorm alternative solutions to the AGI problem. The only ideas so far r privately build a neural lace (which I'm not confident is a complete solution) and privately research the best cyber security for people with neural lace. Extremely open to other ideas. If ur interested in thinking about this together e-mail me ur CV at emn1over12@gmail.com :)
+intelligence faster than code based intelligence. Since then, the idea I've reached is since AGI will not be limited by slow biological processes it isn't possible for human intelligence to increase faster than code based intelligence in the long-term. Now I'm using 101 mental models to brainstorm alternative solutions to the AGI problem. If ur interested in thinking about this together e-mail me ur CV at emn1over12@gmail.com :)
 
-~ Q Liu
+~ Q94 Liu
 
 ## Why and Goals
 Between 2011 to 2016 I was so focused on how to build AGI it was so easy for me to have confirmation bias toward only the potential positive effects of building AGI while a part of me avoided the question:
@@ -57,4 +56,4 @@ Using a checklist of 101 mental models I've brainstormed the following possible 
 
 1. Non-Answer: In all other cases to truly understand an thing just rebuild a better version of it. However, in this case that means building an AGI. 
 
-~ Q Liu
+~ Q94 Liu
