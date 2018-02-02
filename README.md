@@ -18,15 +18,15 @@ intelligence faster than code based intelligence. Since then, the idea I've reac
 ## Why and Goals
 Between 2011 to 2016 I was so focused on how to build AGI it was so easy for me to have confirmation bias toward only the potential positive effects of building AGI while a part of me avoided the question:
   
-`Q0: How do u control something that is smarter than all of humanity combined?`
+`Q0: How do you control something that is smarter than all of humanity combined?`
 
-The answer is u can not. I now believe AGI should not be built privately or publicly and instead one possible solution is to increase human intelligence with a privately built neural lace like [Neuralink](https://neuralink.com/) which u can read about [here](http://waitbutwhy.com/2017/04/neuralink.html). 
+The answer is you can not. I now believe AGI should not be built privately or publicly and instead one possible solution is to increase human intelligence with a privately built neural lace like [Neuralink](https://neuralink.com/) which you can read about [here](http://waitbutwhy.com/2017/04/neuralink.html). 
 
 Today, many groups r trying to build AGI to help humanity. However, I believe AGI should not be built because:
 
 1. Humans r the dominant species on Earth because of our intelligence.
 2. If we make another species (code based AGI) smarter than us then there is no way for us to control it 
-   because u can't control something that is more intelligent than all of humanity combined.
+   because you can't control something that is more intelligent than all of humanity combined.
 3. There is a very high chance that it will use humans for purposes we do not want. Just look at how we treat species 
    that r less intelligent than us.
 4. We cannot stop the humans that r researching AGI so now the question is:
@@ -46,14 +46,14 @@ Using a checklist of 101 mental models I've brainstormed the following possible 
 
 2 is the answer with the least number of assumptions so now the questions becomes `Q2` & `Q3`:
   
-`Q2: How do u create a safe neural lace for anyone who wants one?`.
+`Q2: How do you create a safe neural lace for anyone who wants one?`.
 
 1. First use it to help the mentally disabled. 
 2. I'm not sure giving a neural lace to a mentally normal person is healthy as our lack of full understanding of the brain may cause unexpected insanity in the wearer.
 3. Privately research the best cyber security to be used for people with neural lace. 
 
-`Q3: How do u fully understand the human brain without building an improved version of it in code?`
+`Q3: How do you fully understand the human brain without building an improved version of it in code?`
 
 1. Non-Answer: In all other cases to truly understand an thing just rebuild a better version of it. However, in this case that means building an AGI. 
 
-~ Q94 Liu
+~ Q102 Liu
