@@ -3,7 +3,7 @@
 *Think using a priority checklist of mental models*  
 
 #### Table of Contents
-- **[History of this Repository](#short-history-of-this-repository)**
+- **[History of this Repository](#history-of-this-repository)**
 - **[Why and Goals](#why-and-goals)**
 
 ## History of this Repository
