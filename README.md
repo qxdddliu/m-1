@@ -44,7 +44,7 @@ Using a checklist of 101 mental models I've brainstormed the following possible 
    - `Problem:` I don't know anyone that will take me seriously yet :) 
 5. Something I haven't or can't even imagine. 
 
-2 is the answer with the least number of assumptions so now the questions becomes `Q2` & `Q3`:
+Using Occam's razor 2 is the possible answer with the least number of assumptions so now the questions becomes `Q2` & `Q3`:
   
 `Q2: How do you create a safe neural lace for anyone who wants one?`.
 
@@ -56,4 +56,4 @@ Using a checklist of 101 mental models I've brainstormed the following possible 
 
 1. Non-Answer: In all other cases to truly understand an thing just rebuild a better version of it. However, in this case that means building an AGI. 
 
-~ Q102 Liu
+~ Q142.29 Liu
