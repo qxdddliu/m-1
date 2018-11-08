@@ -56,4 +56,4 @@ Using Occam's razor 2 is the possible answer with the least number of assumption
 
 1. Non-Answer: In all other cases to truly understand an thing just rebuild a better version of it. However, in this case that means building an AGI. 
 
-~ Q142.29 Liu
+~ `Q 142.29 Liu`
