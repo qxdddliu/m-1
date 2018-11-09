@@ -4,7 +4,7 @@
 
 #### Table of Contents
 - **[History of this Repository](#history-of-this-repository)**
-- **[Y & Goals](#y-&-goals)**
+- **[Y & Goals](#y--goals)**
 
 ## History of this Repository
 
