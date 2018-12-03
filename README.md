@@ -12,7 +12,7 @@ In 2011 `Q 0` watched [Jeff Hawkin's talk](https://www.ted.com/talks/jeff_hawkin
 & read [Superintelligence by Nick Bostrom](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742) with `Q 6`'s notes [here](https://github.com/WalnutiQ/wAlnut/issues/345) & realized `Q 0` made false assumptions about building AGI 2 help humanity in the 1st place. The goal changed 2 researching how 2 increase human 
 intelligence faster than code based intelligence. The idea `Q 7` has reached is since AGI will not b limited by slow biological processes, it isn't possible 4 human intelligence to increase faster than code based intelligence in the long-term. Now `Q 194.33.14.5.2` is using 91 mental models 2 brainstorm alternative solutions 2 the AGI problem. If ur interested in thinking about this together e-mail `Q` ur CV @ emn1over12@gmail.com :)
 
-~ `Q 217.33.15.3/6.1/1.2/2.1/2.2/7.2 Liu`
+~ `Q 229.35`
 
 ## Y & Goals
 Between 2011 to 2016 I was so focused on how to build AGI it was so easy for me to have confirmation bias toward only the potential positive effects of building AGI while a part of me avoided the question:
