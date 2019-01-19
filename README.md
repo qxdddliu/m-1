@@ -1,20 +1,20 @@
 # W
 
-*Think using a priority checklist of mental models*  
+*think using a priority checklist of mental models*  
 
-#### Table of Contents
-- **[History of this Repository](#history-of-this-repository)**
-- **[Y & Goals](#y--goals)**
+#### table of contents
+- **[history of this repository](#history-of-this-repository)**
+- **[y & goals](#y--goals)**
 
-## History of this Repository
+## history of this repository
 
 `!` = not
 
-In 2011 `Q 0` watched [Jeff Hawkin's talk](https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing) on artificial general intelligence(AGI) and `Q 1` became obsessed with building AGI 2 help humanity. `Q 2` taught `Q 1` how 2 code & built an object-oriented(OO) Java implementation of [Numenta's cortical learning algorithm version 2(CLA v2)](https://github.com/WalnutiQ/wAlnut/tree/MARK_II). After running unsuccessful vision experiments using the CLA v2 `Q 3` began 2 think there must b 1+ better approaches 2 building AGI. `Q 4` found 1 better approach in Dileep George's [PhD thesis](https://github.com/WalnutiQ/papers/blob/master/Dileep_George_PGM/HowTheBrainMightWork.pdf) & the project changed in2 an [OO Python implementation of Dileep's PhD thesis](https://github.com/WalnutiQ/wAlnut/tree/MARK_III). While researching other approaches 2 AGI `Q 5` found [Elon Musk's ideas on AGI](https://youtu.be/h0962biiZa4)
-& read [Superintelligence by Nick Bostrom](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742) with `Q 6`'s notes [here](https://github.com/WalnutiQ/wAlnut/issues/345) & realized `Q 0` made false assumptions about building AGI 2 help humanity in the 1st place. The goal changed 2 researching how 2 increase human 
-intelligence faster than code based intelligence. The idea `Q 7` has reached is since AGI will `!`b limited by slow biological processes, it isn't possible 4 human intelligence 2 increase faster than code based intelligence in the long-term. Now `Q` is using a checklist of 129 mental models 2 brainstorm alternative solutions 2 the AGI problem. If ur interested in thinking about this 2gether e-mail `Q` ur CV @ emn1over12@gmail.com :)
+In 2011 `Quinn` watched [Jeff Hawkin's talk](https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing) on artificial general intelligence(`AGI`) & `Quinn 1` bcame obsessed with building `AGI` 2 help humanity. `Quinn 2` taught `Quinn 1` how 2 code & built an object-oriented(OO) Java implementation of [Numenta's cortical learning algorithm version 2(`CLA v2`)](https://github.com/WalnutiQ/wAlnut/tree/MARK_II). After running unsuccessful vision experiments using the `CLA v2` `Quinn 3` began 2 think there must b 1+ better options 2 build `AGI`. Hunter Nathanael Smith died by suicide & `Quinn 3` bcame `Q`. `Q 1` found 1 better approach in Dileep George's [PhD thesis](https://github.com/WalnutiQ/papers/blob/master/Dileep_George_PGM/HowTheBrainMightWork.pdf) & this project changed in2 an [OO Python implementation of Dileep's PhD thesis](https://github.com/WalnutiQ/wAlnut/tree/MARK_III). While researching other approaches 2 `AGI` `Q 2` found [Elon Musk's ideas on AGI](https://youtu.be/h0962biiZa4)
+& read [Superintelligence by Nick Bostrom](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742) with `Q 3`'s notes [here](https://github.com/WalnutiQ/wAlnut/issues/345) & realized `Quinn` & `Q` made false assumptions about building `AGI` 2 help humanity in the 1st place. The goal changed 2 researching how 2 increase human 
+intelligence faster than code based intelligence. The hypothesis `Q 4` is stuck on is since AGI will `!`b limited by slow biological processes, it isn't possible 4 human intelligence 2 increase faster than code based intelligence in the long-term. Now `Q` & team r using a checklist of 129 mental models 2 brainstorm alternative solutions 2 the AGI problem. If ur interested in thinking about this 2gether e-mail ur CV 2 `emn1over12@gmail.com` :)
 
-~ `Q 337.9/24.10/16.32/19.7/18.8/12.57.28.3 Liu`
+~ `Q 369.9/24.10/16.32/20.7/18.0/0.8/12.60.29.4 Liu`
 
 ## Y & Goals
 Between 2011 to 2016 `Q` was so focused on how 2 build AGI it was so easy 4 `Q` 2 have confirmation bias 2wards only potentially positive effects of building AGI while `Q` avoided the question:
