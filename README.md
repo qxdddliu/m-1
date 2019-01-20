@@ -3,10 +3,10 @@
 *think using a priority checklist of mental models*  
 
 #### table of contents
-- **[history of this repository](#history-of-this-repository)**
+- **[history of W](#history-of-W)**
 - **[y & goals](#y--goals)**
 
-## history of this repository
+## history of W
 
 `!` = not
 `||` = or
@@ -31,7 +31,7 @@ biological processes, it isn't possible 4 human intelligence 2 increase faster t
 Now `Q` & team r using a checklist of 129 mental models 2 brainstorm alternative solutions 2 the AGI problem. If ur interested 
 in thinking about this 2gether e-mail ur CV 2 `emn1over12@gmail.com` :)
 
-~ `Q 369.9/24.10/16.32/20.7/18.0/0.8/12.60.29.4 Liu`
+~ `Q 373.9/24.10/16.32/20.7/18.0/0.8/12.60.29.4 Liu`
 
 ## Y & Goals
 From 2011 -> 2016 `Quinn` & later `Q` was so focused on how 2 build `AGI` that we had confirmation bias 2wards only 
