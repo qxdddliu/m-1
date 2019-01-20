@@ -44,10 +44,10 @@ increase human intelligence with multiple private companies that build neural la
 which u can read about [here](http://waitbutwhy.com/2017/04/neuralink.html).
 
 2day, many groups of imaginative, couragous, funny, nice, smart, hard working, & resourceful people r trying 2 build `AGI` 2 
-help humanity. However, `Q` believes AGI shouldn't b built bcause:
+help humanity. However, `Q` believes `AGI` shouldn't b built bcause:
 
 1. Humans r the dominant species on Earth bcause of our imagination, courage, sense of humor, kindness, intelligence, work 
-   ethic, & resourcefulness.
+   ethic, & resourcefulness. In that order.
 2. `Assumption:` If we accidentally code a new species of `AGI`s there is no way 4 humans 2 distribute the `AGI`s' power.
 3. There is a very high probability that the 1st `AGI` will use humans 4 purposes we do `!`want. Power tends 2 corrupt & 
    absolute power corrupts absolutely. Just look @ how we treat species that r less intelligent than us.
@@ -64,8 +64,8 @@ Using a checklist of 129 mental models `Q` has brainstormed the following possib
      understand the brain yet. 
 3. `AGI` development regulation.
    - `Problem:` `Q` doesn't think this is scalable since it will `!`b possible 2 monitor every `AGI` engineer like it is 
-     possible 2 monitor every nuclear bomb developer. & as knowledge of how 2 build `AGI` increases more people with self-
-     serving motives can create an `AGI` thinking they can control it & without understanding the consequences.
+     possible 2 monitor every nuclear bomb engineer. & as knowledge of how 2 build `AGI` increases more people with self-
+     serving motives can create an `AGI` thinking they can control it without understanding the consequences.
 4. Figure out how 2 backwards time + universe travel.
    - `Problem:` `Q` only knows 1 person named `LEX` that will take `Q` seriously so far :) 
 5. Something `Q` hasn't || can't even imagine yet; also known as a black swan event. 
@@ -79,8 +79,8 @@ Using Occam's razor `2` is the possible answer with the least number of assumpti
 2. `Q` isn't sure giving a neural lace 2 a mentally "healthy" person is healthy as our lack of full understanding of the brain 
    may cause unexpected insanity in the wearer.
 3. Privately research the best cyber security 2 b used 4 people with neural lace. 
-4. Build multiple private companies that build neural laces so in the event of the worst case scenario of hacking, there is
-   less centralized power.
+4. Build thousands of private companies that build neural laces so in the event of the worst case scenario of hacking, there 
+   is less centralized power.
 
 `Question 3: How do u fully understand the human brain without building 1 improved version of it in code?`
 
@@ -96,4 +96,6 @@ Using Occam's razor `2` is the possible answer with the least number of assumpti
 
 `Question 5: What would b the simplest mental illness 2 treat with neural lace?`
 
-~ `Q 369.9/24.10/16.32/20.7/18.0/0.8/12.60.29.4 Liu`
+1. I don't know right now.
+
+~ `Q 373.9/24.10/16.32/20.7/18.0/1.8/12.60.29.4 Liu`
