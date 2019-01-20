@@ -28,7 +28,7 @@ with `Q 3`'s notes [here](https://github.com/WalnutiQ/wAlnut/issues/345) & reali
 building `AGI` 2 help humanity in the 1st place. The goal changed 2 researching how 2 increase human 
 intelligence faster than code based intelligence. The hypothesis `Q 4` is stuck on is since AGI will `!`b limited by slow 
 biological processes, it isn't possible 4 human intelligence 2 increase faster than code based intelligence in the long-term. 
-Now `Q` & team r using a checklist of 129 mental models 2 brainstorm alternative solutions 2 the AGI problem. If ur interested 
+Now `Q` is using a checklist of 129 mental models 2 brainstorm alternative solutions 2 the AGI problem. If ur interested 
 in thinking about this 2gether e-mail ur CV 2 `emn1over12@gmail.com` :)
 
 ~ `Q 373.9/24.10/16.32/20.7/18.0/0.8/12.60.29.4 Liu`
