@@ -18,7 +18,7 @@ intelligence(`AGI`) & `Quinn 1` bcame obsessed with building `AGI` 2 help humani
 built an object-oriented(OO) Java implementation of 
 [Numenta's cortical learning algorithm version 2(`CLA v2`)](https://github.com/WalnutiQ/wAlnut/tree/MARK_II). 
 After running unsuccessful vision experiments using the `CLA v2` `Quinn 3` began 2 think there must b 1+ better options 2 
-build `AGI`. Hunter Nathanael Smith died by suicide & `Quinn 3` bcame `Q`. `Q 1` found 1 better approach in Dileep George's
+build `AGI`. Hunter Nathanael Smith, Cheryl Wu, & Myron Barnstone died by suicide & `Quinn 3` bcame `Q`. `Q 1` found 1 better approach in Dileep George's
 [PhD thesis](https://github.com/WalnutiQ/papers/blob/master/Dileep_George_PGM/HowTheBrainMightWork.pdf) & this project changed
 in2 an [OO Python implementation of Dileep's PhD thesis](https://github.com/WalnutiQ/wAlnut/tree/MARK_III). While researching
 other approaches 2 `AGI` `Q 2` found [Elon Musk's ideas on AGI](https://youtu.be/h0962biiZa4)
