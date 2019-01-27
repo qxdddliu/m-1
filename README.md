@@ -31,7 +31,7 @@ biological processes, it isn't possible 4 human intelligence 2 increase faster t
 Now `Q` is using a checklist of 129 mental models 2 brainstorm alternative solutions 2 the AGI problem. If ur interested 
 in thinking about this 2gether e-mail ur CV 2 `emn1over12@gmail.com` :)
 
-~ `Q 381.9/24.10/16.34/21.7/18.2/1.0/3.8/12.61.29.4 Liu`
+~ `Q 381.9/24.10/16.34/21.7/18.0/3.8/12.2/1.61.29.4 Liu`
 
 ## Y & Goals
 From 2011 -> 2016 `Quinn` & later `Q` was so focused on how 2 build `AGI` that we had confirmation bias 2wards only 
