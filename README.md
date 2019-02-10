@@ -31,7 +31,7 @@ biological processes, it isn't possible 4 human intelligence 2 increase faster t
 Now `Q` is using a checklist of 129 mental models 2 brainstorm alternative solutions 2 the AGI problem. If ur interested 
 in thinking about this 2gether e-mail ur CV 2 `emn1over12@gmail.com` :)
 
-~ `393.9/24.10/17.36/26.8/19.11/15.8/7.0/5.63.29.6 Liu`
+~ `Q 393.9/24.10/17.36/26.8/19.11/15.8/7.0/5.63.29.6 Liu`
 
 ## Y & Goals
 From 2011 -> 2016 `Quinn` & later `Q` was so focused on how 2 build `AGI` that we had confirmation bias 2wards only 
@@ -64,8 +64,8 @@ Using a checklist of 129 mental models `Q` has brainstormed the following possib
      understand the brain yet. 
 3. `AGI` development regulation.
    - `Problem:` `Q` doesn't think this is scalable since it will `!`b possible 2 monitor every `AGI` engineer like it is 
-     possible 2 monitor every nuclear bomb engineer. & as knowledge of how 2 build `AGI` increases more people with self-
-     serving motives can create an `AGI` thinking they can control it without understanding the consequences.
+     possible 2 monitor every nuclear bomb engineer. & as knowledge of how 2 build `AGI` increases more people with 
+     self-serving motives can create an `AGI` thinking they can control it without understanding the consequences.
 4. Figure out how 2 backwards time + universe travel.
    - `Problem:` `Q` only knows 1 person named `LEX` that will take `Q` seriously so far :) 
 5. Something `Q` hasn't || can't even imagine yet; also known as a black swan event. 
@@ -98,4 +98,4 @@ Using Occam's razor `2` is the possible answer with the least number of assumpti
 
 1. I don't know right now.
 
-~ `Q 373.9/24.10/16.32/20.7/18.0/1.8/12.60.29.4 Liu`
+~ `Q 393.9/24.10/17.36/26.8/19.11/15.8/7.0/5.63.29.6 Liu`
