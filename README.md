@@ -24,14 +24,14 @@ in2 an [OO Python implementation of Dileep's PhD thesis](https://github.com/Waln
 other approaches 2 `AGI` `Q 2` found [Elon Musk's ideas on AGI](https://youtu.be/h0962biiZa4)
 & read 
 [Superintelligence by Nick Bostrom](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742) 
-with `Q 3`'s notes [here](https://github.com/WalnutiQ/wAlnut/issues/345) & realized `Quinn` & `Q` made false assumptions about 
-building `AGI` 2 help humanity in the 1st place. The goal changed 2 researching how 2 increase human 
-intelligence faster than code based intelligence. The hypothesis `Q 4` is stuck on is since AGI will `!`b limited by slow 
-biological processes, it isn't possible 4 human intelligence 2 increase faster than code based intelligence in the long-term. 
-Now `Q` is using a checklist of 129 mental models 2 brainstorm alternative solutions 2 the AGI problem. If ur interested 
+with `Q 3`'s notes [here](https://github.com/WalnutiQ/wAlnut/issues/345) & realized `Quinn` & `Q <= 3` made false assumptions 
+about building `AGI` 2 help humanity in the 1st place. The goal changed 2 researching how 2 increase human 
+intelligence faster than code based intelligence. The hypothesis `Q 4 -> 414` is stuck on is since AGI will `!`b limited by 
+slow biological processes, it isn't possible 4 human intelligence 2 increase faster than code based intelligence in the long-
+term. Now `Q` is using a checklist of 129 mental models 2 brainstorm alternative solutions 2 the AGI problem. If ur interested 
 in thinking about this 2gether e-mail ur CV 2 `emn1over12@gmail.com` :)
 
-~ `Q 401.10/25.11/18.39/27.8/20.11/16.8/9.0/7.64.29.6 Liu`
+~ `Q 414.0/8.10/27.11/19.42/29.8/21.11/16.9/13.67.33.6 Liu`
 
 ## Y & Goals
 From 2011 -> 2016 `Quinn` & later `Q` was so focused on how 2 build `AGI` that we had confirmation bias 2wards only 
