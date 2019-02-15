@@ -32,6 +32,7 @@ term. Now `Q` is using a checklist of 129 mental models 2 brainstorm alternative
 in thinking about this 2gether e-mail ur CV 2 `emn1over12@gmail.com` :)
 
 ~ `Q 416.0/8.11/16.10/27.11/19.42/29.8/21.9/13.65.33.6 Liu`
+
 ~ `Q A.W/s.S/M.S2/L.J/Z.H/L2.J2/L3.T/G.R/R2.J3/W2.B.C.D Liu`
 
 ## Y & Goals
