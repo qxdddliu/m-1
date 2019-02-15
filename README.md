@@ -1,12 +1,12 @@
-# W
+# Ws
 
 *think using a priority checklist of mental models*  
 
 #### table of cookies
-- **[history of W](#history-of-W)**
+- **[history of Ws](#history-of-Ws)**
 - **[y & goals](#y--goals)**
 
-## history of W
+## history of Ws
 
 `!` = not
 `||` = or
