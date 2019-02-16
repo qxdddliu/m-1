@@ -1,16 +1,16 @@
 # Ws
 
-*think using a priority checklist of mental models*  
+`!` = not
+`||` = or
+`&` = and
+
+*think using a priority checklist of mental models `||` !*  
 
 #### table of cookies
 - **[history of Ws](#history-of-Ws)**
 - **[y & goals](#y--goals)**
 
 ## history of Ws
-
-`!` = not
-`||` = or
-`&` = and
 
 In 2011 `Quinn` watched 
 [Jeff Hawkin's talk](https://www.ted.com/talks/jeff_hawkins_on_how_brain_science_will_change_computing) on artificial general
