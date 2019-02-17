@@ -29,7 +29,7 @@ slow biological processes, it isn't possible 4 human intelligence 2 increase fas
 term. Now `Q` is using a checklist of 129 mental models 2 brainstorm alternative solutions 2 the AGI problem. If ur interested 
 in thinking about this 2gether e-mail ur CV 2 `emn1over12@gmail.com` :)
 
-~ `Q 445.0/13.11/16.10/31.11/22.43/31.8/21.10/16.1/1.0/0.66.37.6 Liu`
+~ `Q 445.0/13.11/17.10/31.11/22.43/31.8/21.10/16.1/1.0/0.66.37.6 Liu`
 
 ~ `Q A.W/s.S/M.S2/L.J/Z.H/L2.J2/L3.T/G.R/R2.J3/W2.B.C.D Liu`
 
