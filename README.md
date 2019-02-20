@@ -35,7 +35,7 @@ in thinking about this 2gether e-mail ur CV 2 `emn1over12@gmail.com` :)
 
 ~ `Q A.W/s.S/M.S2/L.J/Z.H/L2.J2/L3.T/G.W2/L4.R/R2.J3/W3.B.C.D Liu`
 
-`A` = 1 # times Q cried since 9/17/2016  
+`A` = # times Q cried since 9/17/2016  
 `W` = # times Q has helped Ws enjoy life  
 `s` = # times Q has spent time with Ws
 
