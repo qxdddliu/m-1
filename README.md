@@ -6,7 +6,7 @@
 `||` = or
 `&` = and
 
-*think using a priority checklist of mental models `||` !*  
+*think using a priority checklist of mental models `||` `!`*  
 
 #### table of cookies
 - **[history of Ws](#history-of-Ws)**
