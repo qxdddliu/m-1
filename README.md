@@ -32,9 +32,9 @@ term. `Q < 454...` is using a checklist of 129 mental models 2 brainstorm altern
 some1 & `Q 454...` is `!` so sure AGIs r a problem that needs 2 b "fixed" anymore so long as they read the "right" sequence of 
 books b4 they r "born".
 
-~ `Q 454.0/13.11/17.10/31.11/22.43/31.8/21.11/18.0/1.1/1.0/0.67.37.6 Liu`
+~ `Q 454.0/13.10/31.11/22.43/31.8/21.11/17.11/19.0/1.1/1.0/0.67.37.6 Liu`
 
-~ `Q A.W/s.S/M.S2/L.J/Z.H/L2.J2/L3.T/G.W2/L4.R/R2.J3/W3.B.C.D Liu`
+~ `Q A.W/s.S2/L.J/Z.H/L2.J2/L3.S/M.T/G.W2/L4.R/R2.J3/W3.B.C.D Liu`
 
 `A` = # times Q cried since 9/17/2016  
 `W` = # times Q has helped Ws enjoy life  
