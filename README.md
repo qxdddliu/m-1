@@ -29,12 +29,12 @@ about building `AGI` 2 help humanity in the 1st place. The goal changed 2 resear
 intelligence faster than code based intelligence. The hypothesis `Q 4 -> 414` is stuck on is since AGI will `!`b limited by 
 slow biological processes, it isn't possible 4 human intelligence 2 increase faster than code based intelligence in the long-
 term. `Q < 454...` is using a checklist of 129 mental models 2 brainstorm alternative solutions 2 the AGI problem. `Q` met 
-some1 & `Q 454...` is `!` so sure AGIs r a problem that needs 2 b "fixed" anymore so long as they read the "right" sequence of 
-books b4 they r "born".
+some1 which has caused `Q 456...` 2 revote & `!` b so sure AGIs r a problem that needs 2 b "fixed" anymore so long as they 
+read the "right" sequence of books b4 they surpass human intelligence.
 
-~ `Q 454.0/13.10/31.11/22.43/31.8/21.11/17.11/19.0/1.1/1.0/0.67.37.6 Liu`
+~ `Q 456.0/14.10/31.11/22.43/31.8/21.11/17.0/0.0/0.11/20.0/0.0/1.1/1.0/0.67.39.6 Liu`
 
-~ `Q A.W/s.S2/L.J/Z.H/L2.J2/L3.S/M.T/G.W2/L4.R/R2.J3/W3.B.C.D Liu`
+~ `Q A.W/s.S2/L.J/Z.H/L2.J2/L3.S/M.C/W2.K/M2.T/G.W3/L4.R/R2.J3/W4.S3/K.B.C.D Liu`
 
 `A` = # times Q cried since 9/17/2016  
 `W` = # times Q has helped Ws enjoy life  
