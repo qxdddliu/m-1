@@ -6,7 +6,7 @@
 `||` = or
 `&` = and
 
-*think using a priority checklist of mental models `||` `!`*  
+*think using a priority checklist of mental models `||` someidea better*  
 
 #### table of cookies
 - **[history of Ws](#history-of-Ws)**
@@ -32,11 +32,26 @@ term. `Q < 454...` is using a checklist of 129 mental models 2 brainstorm altern
 some1 which has caused `Q 456...` 2 revote & `!` b so sure AGIs r a problem that needs 2 b "fixed" anymore so long as they 
 read the "right" sequence of books b4 they surpass human intelligence.
 
-~ `Q 456.0/14.10/31.11/22.43/31.8/21.11/17.0/0.0/0.11/20.0/0.0/1.1/1.0/0.67.39.6 Liu`
+~
+```
+Q 457.39.6.0/13.10/31.11/22.43/31.8/21.
+0/0.0/0.0/0.0/0.
+11/17.11/20.0/0.
+0/1.0/1.0/0.0/0.
+67 Liu
+```
 
-~ `Q A.W/s.S2/L.J/Z.H/L2.J2/L3.S/M.C/W2.K/M2.T/G.W3/L4.R/R2.J3/W4.S3/K.B.C.D Liu`
+~ 
+```
+Q A.C.D.W/s.S/L.J/Z.H/L2.J2/L3.
+L4/L5.W2/W3.J3/L6.J4/L7.
+S2/M.T/G.K/M2.
+C2/W4.
+W5/L8.R/R2.J5/W6.S3/K2.B Liu
+```
 
 `A` = # times Q cried since 9/17/2016  
+`C` = # times Q has gotten really mad `||` stressed  
 `W` = # times Q has helped Ws enjoy life  
 `s` = # times Q has spent time with Ws
 
