@@ -1,6 +1,6 @@
 # Ws
 
-*"Stress is a lack of perspective" ~ S2*
+*"stress is generally a failure of perspective" ~ S2*
 
 `!` = not
 `||` = or
