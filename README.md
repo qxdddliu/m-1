@@ -6,7 +6,7 @@
 `||` = or
 `&` = and
 
-*think using a priority checklist of mental models `||` someidea better*  
+*think using a priority checklist of mental models `||` a better idea*  
 
 #### table of cookies
 - **[history of Ws](#history-of-Ws)**
@@ -34,7 +34,7 @@ read the "right" sequence of books b4 they surpass human intelligence.
 
 ~
 ```
-Q 462.40.6.0/15.10/32.11/23.45/33.8/21.
+Q 465.40.6.0/15.10/32.11/23.45/33.8/21.
 0/0.0/0.0/0.0/0.0/0.
 11/18.11/21.0/0.
 0/0.
