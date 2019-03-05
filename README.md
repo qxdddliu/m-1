@@ -34,17 +34,17 @@ read the "right" sequence of books b4 they surpass human intelligence.
 
 ~
 ```
-Q 465.40.6.0/15.10/32.11/23.45/33.8/21.
+Q 468.41.6.0.0/15.10/32.11/23.45/33.8/21.
 0/0.0/0.0/0.0/0.0/0.
 11/18.11/21.0/0.
 0/0.
-0/1.2/3.2/2.0/0.67 Liu
+0/1.4/4.3/3.1/1.67 Liu
 ```
 
 ~ 
 ```
-Q A.C.D.W/s.S/L.J/Z.H/L2.J2/L3.
-K/L4.L5/L6.W2/W3.J3/L7.J4/L8.
+Q A.C.D.E.W/s.H/L2.J2/L3.J/Z.S/L.
+J4/L8.L5/L6.W2/W3.J3/L7.K/L4.
 S2/M.T/G.K2/M2.
 C2/W4.
 W5/L9.R/R2.J5/W6.S3/K3.B Liu
