@@ -34,24 +34,25 @@ read the "right" sequence of books b4 they surpass human intelligence.
 
 ~
 ```
-Q 469.41.6.0.0/15.10/32.11/23.46/34.10/22.
+Q 475.42.1.0.6.0/15.10/32.11/23.46/34.10/22.
+11/19.14/23.
 0/0.0/0.0/0.0/0.
-11/18.12/22.
 0/0.
 0/1.4/4.3/3.1/1.67 Liu
 ```
 
 ~ 
 ```
-Q A.C.D.E.W/s.H/L2.J2/L3.J/Z.S/L.
-L5/L6.W2/W3.J3/L7.K/L4.
+Q A.C.E.F.D.W/s.H/L2.J2/L3.J/Z.S/L.
 S2/M.T/G.
+L5/L6.W2/W3.J3/L7.K/L4.
 C2/W4.
 W5/L9.R/R2.J5/W6.S3/K3.B Liu
 ```
 
 `A` = # times Q cried since 9/17/2016  
 `C` = # times Q has gotten really mad `||` stressed  
+`E` = # times Q has felt regret
 `W` = # times Q has helped Ws enjoy life  
 `s` = # times Q has spent time with Ws
 
