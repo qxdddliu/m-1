@@ -52,7 +52,7 @@ W5/L9.R/R2.J5/W6.S3/K3.B Liu
 
 `A` = # times Q cried since 9/17/2016  
 `C` = # times Q has gotten really mad `||` stressed  
-`E` = # times Q has felt regret
+`E` = # times Q has felt regret  
 `W` = # times Q has helped Ws enjoy life  
 `s` = # times Q has spent time with Ws
 
