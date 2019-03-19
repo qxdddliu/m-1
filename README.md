@@ -59,7 +59,7 @@ Liu
 `A` = # times Q cried since 9/17/2016  
 `C` = # times Q has gotten really mad `||` stressed  
 `E` = # times Q has felt regret  
-`G` = # times Q has felt sick
+`G` = # times Q has felt sick  
 `W` = # times Q has helped Ws enjoy life  
 `s` = # times Q has spent time with Ws
 
