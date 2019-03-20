@@ -1,7 +1,5 @@
 # Ws
 
-*"stress is generally a failure of perspective" ~ S2*
-
 `!` = not
 `||` = or
 `&` = and
