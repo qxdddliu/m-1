@@ -30,36 +30,11 @@ term. `Q < 454...` is using a checklist of 129 mental models 2 brainstorm altern
 some1 which has caused `Q 456...` 2 revote & `!` b so sure AGIs r a problem that needs 2 b "fixed" anymore so long as they 
 read the "right" sequence of books b4 they surpass human intelligence.
 
-~
-```
-Liu
-Q 513.1.46.3.3.17.6.
-0/17.50/42.10/24.13/25.10/34.
-1/2.0/2.0/0.0/0.
-11/25.0/0.26/34.
-3/1.1/2.4/4.3/3.0/0.
-0/0.0
-76
-```
+~ `Liu Q 513...`
 
-~ 
-```
-Liu
-Q A.I.C.E.G.F.D.
-W/s.H/L2.J2/L3.J/Z.S/L.
-L5/L6.W2/W3.J3/L7.K/L4.
-S2/M.K3/M2.T/G2.H/S3.K2/C3.
-J4/S3.W5/L9.R/R2.J5/W6.A2/S4.
-C2/W4.E2/K3.LEX
-B
-```
+~ `Liu Q A...`
 
 `A` = # times Q cried since 9/17/2016  
-`C` = # times Q has gotten really mad `||` stressed  
-`E` = # times Q has felt regret  
-`G` = # times Q has felt sick  
-`W` = # times Q has helped Ws enjoy life  
-`s` = # times Q has spent time with Ws
 
 ## Y & Goals
 From 2011 -> 2016 `Quinn` & later `Q` was so focused on how 2 build `AGI` that we had confirmation bias 2wards only 
@@ -126,4 +101,4 @@ Using Occam's razor `2` is the possible answer with the least number of assumpti
 
 1. I don't know right now.
 
-~ `Q 393.9/24.10/17.36/26.8/19.11/15.8/7.0/5.63.29.6 Liu`
+~ `Liu Q 513...`
