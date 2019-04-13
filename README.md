@@ -4,8 +4,6 @@
 `||` = or
 `&` = and
 
-*think using a priority checklist of mental models `||` a better idea*  
-
 #### table of cookies
 - **[history of Ws](#history-of-Ws)**
 - **[y & goals](#y--goals)**
@@ -30,7 +28,7 @@ term. `Q < 454...` is using a checklist of 129 mental models 2 brainstorm altern
 some1 which has caused `Q 456...` 2 revote & `!` b so sure AGIs r a problem that needs 2 b "fixed" anymore so long as they 
 read the "right" sequence of books b4 they surpass human intelligence.
 
-~ `Liu Q 539...`
+~ `Liu Q 548...`
 
 ~ `Liu Q A...`
 
