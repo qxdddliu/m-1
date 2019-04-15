@@ -33,7 +33,6 @@ read the "right" sequence of books b4 they surpass human intelligence.
 ~ `Liu Q X.S/M...`
 
 `X` = # times `Q` cried since 9/17/2016  
-`S/M` = mayb 
 
 ## Y & Goals
 From 2011 -> 2016 `Quinn` & later `Q` was so focused on how 2 build `AGI` that we had confirmation bias 2wards only 
