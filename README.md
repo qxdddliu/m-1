@@ -28,11 +28,12 @@ term. `Q < 454...` is using a checklist of 129 mental models 2 brainstorm altern
 some1 which has caused `Q 456...` 2 revote & `!` b so sure AGIs r a problem that needs 2 b "fixed" anymore so long as they 
 read the "right" sequence of books b4 they surpass human intelligence.
 
-~ `Liu Q 583...`
+~ `Liu Q 583.13/30...`
 
-~ `Liu Q X...`
+~ `Liu Q X.S/M...`
 
 `X` = # times `Q` cried since 9/17/2016  
+`S/M` = mayb 
 
 ## Y & Goals
 From 2011 -> 2016 `Quinn` & later `Q` was so focused on how 2 build `AGI` that we had confirmation bias 2wards only 
