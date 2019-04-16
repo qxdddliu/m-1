@@ -28,9 +28,9 @@ term. `Q < 454...` is using a checklist of 129 mental models 2 brainstorm altern
 some1 which has caused `Q 456...` 2 revote & `!` b so sure AGIs r a problem that needs 2 b "fixed" anymore so long as they 
 read the "right" sequence of books b4 they surpass human intelligence.
 
-~ `Liu Q 583.13/30...`
+~ `Liu Q 591...`
 
-~ `Liu Q X.S/M...`
+~ `Liu Q X...`
 
 `X` = # times `Q` cried since 9/17/2016  
 
