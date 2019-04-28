@@ -26,8 +26,8 @@ slow biological processes, it isn't possible 4 human intelligence 2 increase fas
 some1 which has caused `Q 456...` 2 revote & `!` b so sure AGIs r a problem that needs 2 b "fixed" anymore so long as they 
 read the "right" sequence of books b4 they surpass human inmagination.
 
-~ `Liu Huan Qing Q 612...`
+~ `Q 627... Liu`
 
-~ `刘 焕 青 Q X...`
+~ `Q X... 刘`
 
 `X` = # times `Q` cried since 9/17/2016
