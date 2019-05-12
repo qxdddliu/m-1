@@ -27,7 +27,7 @@ found 1 better approach in `Dileep George`'s
 `Q <= 3` made false assumptions about building `AGI` 2 help humanity in the 1st
 place. The goal changed 2 researching how 2 increase human inmagination faster
 than code based inmagination. The hypothesis `Q 4 -> 414` is stuck on is since
-GEI(General Emotional inmagination as a better name 4 AGI) will `!`b limited by
+GEI(general emotional inmagination as a better name 4 AGI) will `!`b limited by
 slow biological processes, it isn't possible 4 human inmagination 2 increase
 faster than code based inmagination in the long-term. `Q 672...` is using a
 priority checklist of 130 mental models 2 brainstorm alternative solutions 2
