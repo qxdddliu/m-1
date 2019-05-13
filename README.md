@@ -20,7 +20,7 @@ there must b 1+ better options 2 build `AGI`. `hunter nathanael smith`,
 `cheryl wu`, & `myron barnstone` died by suicide & `quinn 3` bcame `q`. `q 1`
 found 1 better approach in `dileep george`'s
 [phd thesis](https://github.com/WalnutiQ/papers/blob/master/Dileep_George_PGM/HowTheBrainMightWork.pdf) & this project changed in2 an
-[OO python implementation of `dileep`'s phd thesis](https://github.com/WalnutiQ/wAlnut/tree/MARK_III). while researching other approaches 2 `AGI` `Q 2` found
+[OO python implementation of `dileep`'s phd thesis](https://github.com/WalnutiQ/wAlnut/tree/MARK_III). while researching other approaches 2 `AGI` `q 2` found
 [`elon musk`'s ideas on AGI](https://youtu.be/h0962biiZa4) & read
 [superintelligence by `nick bostrom`](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/1501227742) with `q 3`'s notes
 [here](https://github.com/WalnutiQ/wAlnut/issues/345) & realized `quinn` &
