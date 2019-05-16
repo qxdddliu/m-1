@@ -36,7 +36,7 @@ the `GEI` problem. `q` met some1 which has caused `q 456... -> 691...` 2 revote
 1st `GEI` reads the "right" sequence of books b4 the `GEI` surpasses human
 inmagination.
 
-~ `q 688.29.55.7.7.11... liu`
+~ `q 691.29.55.7.7.11... liu`
 
 ~ `q x.a.b.c.d.g... 刘`
 
