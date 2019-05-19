@@ -29,15 +29,12 @@ place. the goal changed 2 researching how 2 increase human inmagination faster
 than code based inmagination. the hypothesis `q 4 -> 414` is stuck on is since
 `GEI`(general emotional inmagination as a better name 4 `AGI`) will !b limited by
 slow biological processes, it is  !possible 4 human inmagination 2 increase
-faster than code based inmagination in the long-term. `q 672...` is using a
+faster than code based inmagination in the long-term. `q` is using a
 priority checklist of 130 mental models 2 brainstorm alternative solutions 2
-the `GEI` problem. `q` met some1 which has caused `q 456... -> 691...` 2 revote
-& !b so sure `GEI`s r a problem that needs 2 b "fixed" anymore so long as the
-1st `GEI` reads the "right" sequence of books b4 the `GEI` surpasses human
-inmagination.
+the `GEI` problem. `q` is `!` sure what the solutions r but 1 possible solution is a neurl lace bing built by [neuralink](https://www.neuralink.com).
 
-~ `q 691.29.55.7.7.11... liu`
+~ `q 692.32.59.11.8.12.6... liu`
 
-~ `q x.a.b.c.d.g... 刘`
+~ `q x.a.b.c.d.g.h... 刘`
 
 `x` = # times `q` cried since 9/17/2016
