@@ -31,7 +31,7 @@ than code based inmagination. the hypothesis `q 4 -> 414` is stuck on is since
 slow biological processes, it is  !possible 4 human inmagination 2 increase
 faster than code based inmagination in the long-term. `q` is using a
 priority checklist of 130 mental models 2 brainstorm alternative solutions 2
-the `GEI` problem. `q` is `!` sure what the solutions r but 1 possible solution is a neurl lace bing built by [neuralink](https://www.neuralink.com).
+the `GEI` problem. `q` is `!` sure what the solutions r but 1 possible solution is a neural lace bing built by [neuralink](https://www.neuralink.com).
 
 ~ `q 692.32.59.11.8.12.6... liu`
 
