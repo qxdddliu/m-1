@@ -16,8 +16,8 @@ general inmagination(`AGI`) & `quinn 1` bcame obsessed with building `AGI` 2
 help humanity. `quinn 2` taught `quinn 1` how 2 code & built an
 object-oriented(OO) java implementation of [numenta's cortical learning algorithm version 2(`CLA v2`)](https://github.com/WalnutiQ/wAlnut/tree/MARK_II). after running
 unsuccessful vision experiments using the `CLA v2` `quinn 3` began 2 think
-there must b 1+ better options 2 build `AGI`. `hunter nathanael smith`,
-`cheryl wu`, & `myron barnstone` died by suicide & `quinn 3` bcame `q`. `q 1`
+there must b 1+ better options 2 build `AGI`. `hunter nathanael smith`
+& `cheryl wu` died by suicide & `quinn 3` bcame `q`. `q 1`
 found 1 better approach in `dileep george`'s
 [phd thesis](https://github.com/WalnutiQ/papers/blob/master/Dileep_George_PGM/HowTheBrainMightWork.pdf) & this project changed in2 an
 [OO python implementation of `dileep`'s phd thesis](https://github.com/WalnutiQ/wAlnut/tree/MARK_III). while researching other approaches 2 `AGI` `q 2` found
