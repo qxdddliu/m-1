@@ -33,8 +33,9 @@ faster than code based inmagination in the long-term. `q` is using a
 priority checklist of 130 mental models 2 brainstorm alternative solutions 2
 the `GEI` problem. `q` is `!` sure what the solutions r but 1 possible solution is a neural lace bing built by [neuralink](https://www.neuralink.com).
 
-~ `q 692.32.59.11.8.12.6... liu`
+~ `q 711.32.60.20.8.13.8. 68.6... liu`
 
-~ `q x.a.b.c.d.g.h... 刘`
+~ `q x.a.b.c.d.g.h. e.f... liu`
 
-`x` = # times `q` cried since 9/17/2016
+`x` = # times `q` cried since 9/17/2016  
+`e` = # times `q` has laughed since he started counting
